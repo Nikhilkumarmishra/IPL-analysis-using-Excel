@@ -1,0 +1,1241 @@
+Order_ID,Date,Customer_Name,State,Amount_INR,Category,Payment_Mode
+ORD-5000,2023-11-24,Priya Sharma,Maharashtra,2106.23,Grocery,Credit Card
+ORD-5001,2023-02-22,Arjun Nair,Karnataka,643.02,Beauty & Personal Care,Net Banking
+ORD-5002,2023-02-17,Sneha Gupta,Delhi,619.41,Beauty & Personal Care,Cash on Delivery
+ORD-5003,2023-04-12,Arjun Nair,Gujarat,5330.23,Fashion,Net Banking
+ORD-5004,2023-01-04,Amit Patel,Gujarat,1199.66,Grocery,Debit Card
+ORD-5005,2023-06-22,Priya Sharma,Karnataka,2115.41,Home & Kitchen,UPI
+ORD-5006,2023-06-26,Deepa Lakshmi,Uttar Pradesh,47173.69,Electronics,Net Banking
+ORD-5007,2023-07-13,Priya Sharma,Uttar Pradesh,3098.08,Beauty & Personal Care,Debit Card
+ORD-5008,2023-12-27,Priya Sharma,Maharashtra,11065.516,Fashion,Debit Card
+ORD-5009,2023-04-30,Priya Sharma,Gujarat,3360.58,Grocery,Net Banking
+ORD-5010,2023-07-06,Amit Patel,West Bengal,3515.79,Grocery,Credit Card
+ORD-5011,2023-12-26,Priya Sharma,Tamil Nadu,1729.4339999999997,Beauty & Personal Care,Credit Card
+ORD-5012,2023-07-14,Vikram Singh,Delhi,1530.72,Grocery,UPI
+ORD-5013,2023-01-17,Anjali Verma,Gujarat,1449.42,Grocery,UPI
+ORD-5014,2023-10-18,Anjali Verma,Delhi,6273.498,Home & Kitchen,Net Banking
+ORD-5015,2023-11-26,Kavita Iyer,Tamil Nadu,2253.7479999999996,Grocery,Credit Card
+ORD-5016,2023-10-15,Arjun Nair,Uttar Pradesh,6356.28,Beauty & Personal Care,Net Banking
+ORD-5017,2023-07-24,Anjali Verma,Delhi,4707.85,Fashion,Cash on Delivery
+ORD-5018,2023-01-25,Priya Sharma,Tamil Nadu,5376.66,Fashion,Net Banking
+ORD-5019,2023-07-17,Sandeep Reddy,Telangana,4869.85,Beauty & Personal Care,Debit Card
+ORD-5020,2023-01-06,Priya Sharma,Uttar Pradesh,1820.75,Grocery,UPI
+ORD-5021,2023-03-22,Kavita Iyer,Maharashtra,3928.83,Grocery,Cash on Delivery
+ORD-5022,2023-09-17,Priya Sharma,Uttar Pradesh,1395.1,Beauty & Personal Care,Cash on Delivery
+ORD-5023,2023-07-11,Amit Patel,Maharashtra,2698.73,Beauty & Personal Care,Debit Card
+ORD-5024,2023-02-27,Anjali Verma,Uttar Pradesh,3065.67,Fashion,UPI
+ORD-5025,2023-10-18,Priya Sharma,Karnataka,6861.302,Home & Kitchen,UPI
+ORD-5026,2023-09-30,Amit Patel,Tamil Nadu,1243.07,Home & Kitchen,Cash on Delivery
+ORD-5027,2023-09-28,Deepa Lakshmi,Gujarat,6409.22,Fashion,Cash on Delivery
+ORD-5028,2023-12-20,Sneha Gupta,Uttar Pradesh,3460.0299999999997,Home & Kitchen,Debit Card
+ORD-5029,2023-09-22,Kavita Iyer,Karnataka,1916.17,Fashion,Credit Card
+ORD-5030,2023-01-11,Deepa Lakshmi,Delhi,532.36,Beauty & Personal Care,Credit Card
+ORD-5031,2023-12-29,Rajesh Kumar,Delhi,93209.36799999999,Electronics,UPI
+ORD-5032,2023-02-06,Arjun Nair,Delhi,1464.07,Grocery,Net Banking
+ORD-5033,2023-03-09,Deepa Lakshmi,Telangana,6748.73,Fashion,Net Banking
+ORD-5034,2023-04-08,Priya Sharma,Karnataka,2406.1,Home & Kitchen,Debit Card
+ORD-5035,2023-08-28,Rajesh Kumar,Karnataka,58692.82,Electronics,Net Banking
+ORD-5036,2023-02-25,Sneha Gupta,Delhi,4415.99,Fashion,Cash on Delivery
+ORD-5037,2023-08-05,Amit Patel,Uttar Pradesh,4435.19,Home & Kitchen,Credit Card
+ORD-5038,2023-02-08,Kavita Iyer,Karnataka,65161.66,Electronics,Cash on Delivery
+ORD-5039,2023-02-17,Sneha Gupta,Tamil Nadu,2666.11,Home & Kitchen,Net Banking
+ORD-5040,2023-07-25,Rajesh Kumar,Tamil Nadu,4933.89,Home & Kitchen,UPI
+ORD-5041,2023-05-16,Kavita Iyer,Uttar Pradesh,3478.42,Home & Kitchen,Cash on Delivery
+ORD-5042,2023-09-07,Amit Patel,Delhi,4859.19,Grocery,Credit Card
+ORD-5043,2023-10-24,Arjun Nair,Maharashtra,1015.896,Grocery,UPI
+ORD-5044,2023-09-02,Arjun Nair,Tamil Nadu,19806.69,Electronics,Cash on Delivery
+ORD-5045,2023-04-06,Priya Sharma,Karnataka,2279.26,Fashion,Net Banking
+ORD-5046,2023-10-19,Sneha Gupta,Maharashtra,3341.114,Beauty & Personal Care,UPI
+ORD-5047,2023-10-26,Deepa Lakshmi,West Bengal,4919.277999999999,Grocery,Credit Card
+ORD-5048,2023-06-10,Sneha Gupta,Uttar Pradesh,3522.61,Home & Kitchen,Credit Card
+ORD-5049,2023-06-03,Kavita Iyer,West Bengal,42497.13,Electronics,UPI
+ORD-5050,2023-10-16,Priya Sharma,Karnataka,3887.0719999999997,Beauty & Personal Care,Credit Card
+ORD-5051,2023-03-09,Anjali Verma,Karnataka,3352.42,Fashion,Debit Card
+ORD-5052,2023-08-13,Arjun Nair,Uttar Pradesh,535.2,Beauty & Personal Care,Cash on Delivery
+ORD-5053,2023-10-11,Vikram Singh,Karnataka,3150.406,Fashion,Debit Card
+ORD-5054,2023-02-24,Arjun Nair,Tamil Nadu,3221.73,Grocery,Debit Card
+ORD-5055,2023-06-25,Sneha Gupta,Uttar Pradesh,1630.05,Beauty & Personal Care,Net Banking
+ORD-5056,2023-01-27,Priya Sharma,Gujarat,515.96,Grocery,UPI
+ORD-5057,2023-03-08,Vikram Singh,Tamil Nadu,3675.5,Home & Kitchen,Cash on Delivery
+ORD-5058,2023-10-15,Rajesh Kumar,Karnataka,66829.58799999999,Electronics,Credit Card
+ORD-5059,2023-07-09,Deepa Lakshmi,Tamil Nadu,688.23,Home & Kitchen,Credit Card
+ORD-5060,2023-07-06,Rajesh Kumar,West Bengal,5835.07,Fashion,Credit Card
+ORD-5061,2023-07-01,Arjun Nair,Gujarat,4665.94,Beauty & Personal Care,Credit Card
+ORD-5062,2023-05-02,Amit Patel,Tamil Nadu,1307.12,Home & Kitchen,UPI
+ORD-5063,2023-06-20,Sandeep Reddy,Delhi,4043.19,Grocery,Credit Card
+ORD-5064,2023-02-25,Sandeep Reddy,Maharashtra,1398.08,Home & Kitchen,Credit Card
+ORD-5065,2023-08-24,Anjali Verma,Uttar Pradesh,1653.82,Fashion,Credit Card
+ORD-5066,2023-04-09,Sandeep Reddy,West Bengal,4851.0,Grocery,UPI
+ORD-5067,2023-05-23,Anjali Verma,Gujarat,4726.57,Beauty & Personal Care,Debit Card
+ORD-5068,2023-03-01,Vikram Singh,Tamil Nadu,672.16,Beauty & Personal Care,Debit Card
+ORD-5069,2023-11-02,Sandeep Reddy,West Bengal,4519.116,Grocery,Net Banking
+ORD-5070,2023-09-19,Priya Sharma,Gujarat,1646.25,Beauty & Personal Care,Credit Card
+ORD-5071,2023-12-29,Sandeep Reddy,Maharashtra,5027.204,Beauty & Personal Care,Cash on Delivery
+ORD-5072,2023-12-10,Sneha Gupta,West Bengal,6677.915999999999,Home & Kitchen,UPI
+ORD-5073,2023-06-19,Deepa Lakshmi,West Bengal,45427.35,Electronics,Debit Card
+ORD-5074,2023-12-08,Sandeep Reddy,West Bengal,4192.804,Home & Kitchen,Debit Card
+ORD-5075,2023-04-09,Sandeep Reddy,Gujarat,5199.18,Fashion,Cash on Delivery
+ORD-5076,2023-07-27,Arjun Nair,Maharashtra,1445.82,Grocery,Debit Card
+ORD-5077,2023-10-24,Deepa Lakshmi,West Bengal,3485.6079999999997,Home & Kitchen,Net Banking
+ORD-5078,2023-04-20,Arjun Nair,Telangana,3344.61,Fashion,UPI
+ORD-5079,2023-12-06,Deepa Lakshmi,West Bengal,77514.836,Electronics,Credit Card
+ORD-5080,2023-04-26,Sneha Gupta,Tamil Nadu,29690.55,Electronics,UPI
+ORD-5081,2023-09-01,Deepa Lakshmi,Karnataka,4487.62,Home & Kitchen,Net Banking
+ORD-5082,2023-10-22,Sneha Gupta,Gujarat,2237.102,Home & Kitchen,Net Banking
+ORD-5083,2023-12-02,Rajesh Kumar,Karnataka,1808.0859999999998,Home & Kitchen,Credit Card
+ORD-5084,2023-12-23,Arjun Nair,Telangana,41932.659999999996,Electronics,Cash on Delivery
+ORD-5085,2023-03-04,Kavita Iyer,Tamil Nadu,4945.52,Home & Kitchen,Cash on Delivery
+ORD-5086,2023-11-01,Anjali Verma,Telangana,3388.4619999999995,Beauty & Personal Care,Cash on Delivery
+ORD-5087,2023-10-08,Kavita Iyer,Tamil Nadu,2332.9039999999995,Home & Kitchen,Net Banking
+ORD-5088,2023-05-07,Vikram Singh,Telangana,4359.17,Fashion,Debit Card
+ORD-5089,2023-05-27,Sneha Gupta,Uttar Pradesh,4518.62,Grocery,Debit Card
+ORD-5090,2023-02-11,Amit Patel,Tamil Nadu,6010.67,Fashion,Net Banking
+ORD-5091,2023-12-28,Sneha Gupta,Karnataka,2784.558,Home & Kitchen,Net Banking
+ORD-5092,2023-08-27,Sandeep Reddy,Maharashtra,4031.6,Fashion,Net Banking
+ORD-5093,2023-10-27,Rajesh Kumar,Gujarat,6639.276,Home & Kitchen,UPI
+ORD-5094,2023-06-02,Sandeep Reddy,Gujarat,4099.41,Beauty & Personal Care,Cash on Delivery
+ORD-5095,2023-04-23,Kavita Iyer,Delhi,2685.39,Grocery,Net Banking
+ORD-5096,2023-07-19,Anjali Verma,Gujarat,7477.02,Fashion,Net Banking
+ORD-5097,2023-11-15,Arjun Nair,Maharashtra,4255.664,Home & Kitchen,Cash on Delivery
+ORD-5098,2023-01-14,Priya Sharma,Gujarat,2681.24,Fashion,Net Banking
+ORD-5099,2023-05-14,Sandeep Reddy,West Bengal,3624.5,Fashion,Net Banking
+ORD-5100,2023-07-14,Vikram Singh,Gujarat,2616.38,Grocery,UPI
+ORD-5101,2023-10-04,Rajesh Kumar,West Bengal,9209.214,Fashion,UPI
+ORD-5102,2023-11-30,Rajesh Kumar,Maharashtra,9736.985999999999,Fashion,Credit Card
+ORD-5103,2023-11-15,Amit Patel,Delhi,8192.071999999998,Fashion,Net Banking
+ORD-5104,2023-10-16,Sneha Gupta,Telangana,1757.07,Grocery,Debit Card
+ORD-5105,2023-11-07,Priya Sharma,Tamil Nadu,4345.7119999999995,Grocery,UPI
+ORD-5106,2023-06-09,Deepa Lakshmi,Gujarat,841.98,Home & Kitchen,Credit Card
+ORD-5107,2023-12-20,Sneha Gupta,Karnataka,5774.831999999999,Grocery,Cash on Delivery
+ORD-5108,2023-10-17,Rajesh Kumar,West Bengal,4867.589999999999,Beauty & Personal Care,Net Banking
+ORD-5109,2023-02-05,Arjun Nair,West Bengal,64339.86,Electronics,Net Banking
+ORD-5110,2023-02-24,Sandeep Reddy,West Bengal,2459.69,Home & Kitchen,Credit Card
+ORD-5111,2023-09-25,Vikram Singh,Telangana,4215.81,Home & Kitchen,Net Banking
+ORD-5112,2023-10-31,Vikram Singh,West Bengal,4638.242,Fashion,UPI
+ORD-5113,2023-08-19,Sneha Gupta,Telangana,3506.85,Beauty & Personal Care,Cash on Delivery
+ORD-5114,2023-06-22,Rajesh Kumar,Telangana,2693.97,Grocery,Credit Card
+ORD-5115,2023-07-01,Vikram Singh,West Bengal,3655.33,Grocery,Cash on Delivery
+ORD-5116,2023-05-22,Arjun Nair,Maharashtra,885.26,Beauty & Personal Care,Credit Card
+ORD-5117,2023-07-28,Kavita Iyer,Delhi,2516.79,Home & Kitchen,Net Banking
+ORD-5118,2023-01-09,Priya Sharma,Uttar Pradesh,5996.62,Fashion,Net Banking
+ORD-5119,2023-06-06,Deepa Lakshmi,West Bengal,2889.15,Home & Kitchen,Cash on Delivery
+ORD-5120,2023-08-06,Arjun Nair,West Bengal,1719.12,Grocery,Net Banking
+ORD-5121,2023-05-09,Sneha Gupta,Karnataka,2277.11,Fashion,Debit Card
+ORD-5122,2023-10-02,Amit Patel,Delhi,4616.15,Fashion,Net Banking
+ORD-5123,2023-10-29,Arjun Nair,Uttar Pradesh,45884.706,Electronics,Credit Card
+ORD-5124,2023-07-04,Amit Patel,Uttar Pradesh,22594.98,Electronics,Cash on Delivery
+ORD-5125,2023-01-24,Rajesh Kumar,Uttar Pradesh,2166.82,Fashion,Net Banking
+ORD-5126,2023-01-07,Deepa Lakshmi,Uttar Pradesh,2482.11,Home & Kitchen,Net Banking
+ORD-5127,2023-04-05,Rajesh Kumar,Uttar Pradesh,4199.52,Home & Kitchen,UPI
+ORD-5128,2023-07-25,Kavita Iyer,Karnataka,1182.77,Beauty & Personal Care,UPI
+ORD-5129,2023-10-16,Vikram Singh,Karnataka,7178.458,Fashion,UPI
+ORD-5130,2023-08-02,Deepa Lakshmi,Delhi,2527.32,Beauty & Personal Care,Net Banking
+ORD-5131,2023-08-15,Vikram Singh,Gujarat,3294.62,Grocery,Cash on Delivery
+ORD-5132,2023-11-09,Priya Sharma,Delhi,8109.891999999999,Fashion,Debit Card
+ORD-5133,2023-03-22,Sneha Gupta,Tamil Nadu,1204.4,Beauty & Personal Care,UPI
+ORD-5134,2023-07-29,Kavita Iyer,Telangana,1541.64,Grocery,UPI
+ORD-5135,2023-12-28,Vikram Singh,Telangana,98608.524,Electronics,Credit Card
+ORD-5136,2023-11-17,Deepa Lakshmi,Delhi,4130.742,Home & Kitchen,UPI
+ORD-5137,2023-11-28,Amit Patel,Uttar Pradesh,2642.71,Fashion,UPI
+ORD-5138,2023-06-07,Deepa Lakshmi,Uttar Pradesh,2609.14,Home & Kitchen,UPI
+ORD-5139,2023-06-05,Sandeep Reddy,Uttar Pradesh,2722.08,Beauty & Personal Care,Cash on Delivery
+ORD-5140,2023-02-11,Deepa Lakshmi,Maharashtra,3216.71,Home & Kitchen,Debit Card
+ORD-5141,2023-01-14,Priya Sharma,Delhi,4778.54,Beauty & Personal Care,Cash on Delivery
+ORD-5142,2023-12-11,Vikram Singh,Maharashtra,6822.564,Fashion,Net Banking
+ORD-5143,2023-08-15,Vikram Singh,Tamil Nadu,3356.53,Beauty & Personal Care,Net Banking
+ORD-5144,2023-09-09,Priya Sharma,Telangana,1999.89,Grocery,Net Banking
+ORD-5145,2023-12-10,Priya Sharma,Tamil Nadu,5070.142,Grocery,Net Banking
+ORD-5146,2023-05-28,Sandeep Reddy,Maharashtra,1915.33,Home & Kitchen,UPI
+ORD-5147,2023-06-15,Priya Sharma,Gujarat,3459.47,Beauty & Personal Care,UPI
+ORD-5148,2023-10-05,Kavita Iyer,Gujarat,64548.903999999995,Electronics,Credit Card
+ORD-5149,2023-11-15,Kavita Iyer,Telangana,43432.71799999999,Electronics,Credit Card
+ORD-5150,2023-03-09,Vikram Singh,Telangana,629.91,Home & Kitchen,UPI
+ORD-5151,2023-11-19,Deepa Lakshmi,Delhi,7112.629999999999,Fashion,Debit Card
+ORD-5152,2023-10-10,Sandeep Reddy,Karnataka,6299.173999999999,Fashion,UPI
+ORD-5153,2023-03-02,Amit Patel,Telangana,3674.35,Grocery,Cash on Delivery
+ORD-5154,2023-08-01,Kavita Iyer,Telangana,5083.22,Fashion,Net Banking
+ORD-5155,2023-07-16,Sneha Gupta,Tamil Nadu,61360.51,Electronics,Debit Card
+ORD-5156,2023-08-01,Anjali Verma,Uttar Pradesh,58563.06,Electronics,Debit Card
+ORD-5157,2023-10-28,Deepa Lakshmi,Telangana,7001.078,Fashion,Net Banking
+ORD-5158,2023-06-26,Anjali Verma,Gujarat,4413.21,Home & Kitchen,Debit Card
+ORD-5159,2023-12-24,Sneha Gupta,Gujarat,2497.194,Fashion,Net Banking
+ORD-5160,2023-08-31,Sandeep Reddy,Gujarat,7771.36,Fashion,Net Banking
+ORD-5161,2023-03-06,Arjun Nair,West Bengal,20982.7,Electronics,Net Banking
+ORD-5162,2023-08-22,Rajesh Kumar,Tamil Nadu,836.73,Home & Kitchen,Credit Card
+ORD-5163,2023-05-16,Anjali Verma,Gujarat,66140.48,Electronics,Debit Card
+ORD-5164,2023-10-01,Sandeep Reddy,West Bengal,926.1699999999998,Home & Kitchen,Cash on Delivery
+ORD-5165,2023-02-05,Sneha Gupta,Uttar Pradesh,4320.81,Fashion,UPI
+ORD-5166,2023-02-20,Priya Sharma,Telangana,7372.26,Fashion,Debit Card
+ORD-5167,2023-01-24,Anjali Verma,Maharashtra,2186.78,Grocery,Debit Card
+ORD-5168,2023-03-16,Sneha Gupta,Gujarat,1264.93,Beauty & Personal Care,Credit Card
+ORD-5169,2023-02-10,Deepa Lakshmi,Gujarat,2739.5,Beauty & Personal Care,Credit Card
+ORD-5170,2023-10-26,Amit Patel,Delhi,3595.298,Home & Kitchen,Debit Card
+ORD-5171,2023-12-08,Rajesh Kumar,Telangana,1695.246,Grocery,Cash on Delivery
+ORD-5172,2023-08-15,Anjali Verma,Uttar Pradesh,2555.76,Home & Kitchen,Debit Card
+ORD-5173,2023-06-04,Sneha Gupta,Gujarat,1567.43,Home & Kitchen,UPI
+ORD-5174,2023-10-20,Anjali Verma,Uttar Pradesh,6861.049999999999,Grocery,UPI
+ORD-5175,2023-12-04,Sandeep Reddy,Uttar Pradesh,93665.65599999999,Electronics,Cash on Delivery
+ORD-5176,2023-01-26,Deepa Lakshmi,Telangana,3231.79,Grocery,Credit Card
+ORD-5177,2023-06-30,Sneha Gupta,Delhi,3549.94,Beauty & Personal Care,Debit Card
+ORD-5178,2023-12-04,Amit Patel,Karnataka,87243.28199999999,Electronics,Debit Card
+ORD-5179,2023-01-18,Deepa Lakshmi,West Bengal,7412.58,Fashion,UPI
+ORD-5180,2023-06-17,Sandeep Reddy,Tamil Nadu,6612.33,Fashion,Credit Card
+ORD-5181,2023-07-07,Arjun Nair,Uttar Pradesh,7441.32,Fashion,Debit Card
+ORD-5182,2023-09-04,Vikram Singh,West Bengal,72773.6,Electronics,Net Banking
+ORD-5183,2023-03-14,Sneha Gupta,Gujarat,906.36,Beauty & Personal Care,Debit Card
+ORD-5184,2023-07-22,Rajesh Kumar,Uttar Pradesh,2546.54,Beauty & Personal Care,UPI
+ORD-5185,2023-12-11,Vikram Singh,Gujarat,4951.464,Grocery,UPI
+ORD-5186,2023-08-30,Rajesh Kumar,West Bengal,3414.44,Beauty & Personal Care,Credit Card
+ORD-5187,2023-11-22,Kavita Iyer,Uttar Pradesh,1580.6,Home & Kitchen,UPI
+ORD-5188,2023-01-20,Vikram Singh,Telangana,29088.0,Electronics,UPI
+ORD-5189,2023-10-03,Amit Patel,Gujarat,4924.066,Home & Kitchen,Debit Card
+ORD-5190,2023-12-23,Arjun Nair,Gujarat,6278.103999999999,Beauty & Personal Care,Credit Card
+ORD-5191,2023-12-02,Priya Sharma,Telangana,6616.035999999999,Beauty & Personal Care,Net Banking
+ORD-5192,2023-05-24,Rajesh Kumar,West Bengal,4390.52,Fashion,Net Banking
+ORD-5193,2023-05-01,Anjali Verma,Karnataka,4557.63,Grocery,Cash on Delivery
+ORD-5194,2023-11-27,Anjali Verma,Maharashtra,1895.796,Home & Kitchen,Debit Card
+ORD-5195,2023-03-04,Kavita Iyer,Karnataka,7812.11,Fashion,Cash on Delivery
+ORD-5196,2023-01-26,Anjali Verma,Delhi,2833.84,Fashion,Cash on Delivery
+ORD-5197,2023-10-11,Sneha Gupta,Delhi,9146.759999999998,Fashion,Debit Card
+ORD-5198,2023-11-02,Rajesh Kumar,Uttar Pradesh,7015.959999999999,Fashion,Credit Card
+ORD-5199,2023-03-31,Priya Sharma,Maharashtra,3828.57,Fashion,UPI
+ORD-5200,2023-05-02,Deepa Lakshmi,West Bengal,30922.05,Electronics,Credit Card
+ORD-5201,2023-03-06,Sandeep Reddy,Karnataka,41896.51,Electronics,Net Banking
+ORD-5202,2023-07-05,Arjun Nair,Karnataka,1496.97,Home & Kitchen,Cash on Delivery
+ORD-5203,2023-11-11,Rajesh Kumar,Uttar Pradesh,1083.194,Home & Kitchen,UPI
+ORD-5204,2023-09-03,Sandeep Reddy,Gujarat,57744.08,Electronics,Net Banking
+ORD-5205,2023-08-16,Priya Sharma,Karnataka,1167.5,Grocery,Cash on Delivery
+ORD-5206,2023-03-06,Vikram Singh,West Bengal,2887.51,Home & Kitchen,Cash on Delivery
+ORD-5207,2023-08-21,Arjun Nair,Gujarat,66167.56,Electronics,UPI
+ORD-5208,2023-11-30,Arjun Nair,Delhi,6294.973999999999,Home & Kitchen,Net Banking
+ORD-5209,2023-07-31,Anjali Verma,Telangana,3783.26,Home & Kitchen,Net Banking
+ORD-5210,2023-06-10,Sandeep Reddy,West Bengal,4791.17,Grocery,Debit Card
+ORD-5211,2023-12-18,Kavita Iyer,Karnataka,28831.334,Electronics,UPI
+ORD-5212,2023-02-19,Anjali Verma,Tamil Nadu,3139.09,Beauty & Personal Care,UPI
+ORD-5213,2023-10-15,Arjun Nair,West Bengal,50702.231999999996,Electronics,Net Banking
+ORD-5214,2023-12-07,Sandeep Reddy,Maharashtra,2668.428,Grocery,Cash on Delivery
+ORD-5215,2023-02-23,Deepa Lakshmi,Delhi,2957.59,Fashion,Net Banking
+ORD-5216,2023-02-25,Anjali Verma,West Bengal,49446.0,Electronics,Debit Card
+ORD-5217,2023-08-08,Arjun Nair,Maharashtra,630.29,Beauty & Personal Care,Debit Card
+ORD-5218,2023-05-20,Vikram Singh,West Bengal,1316.33,Grocery,UPI
+ORD-5219,2023-03-15,Deepa Lakshmi,Gujarat,59458.14,Electronics,Credit Card
+ORD-5220,2023-01-16,Priya Sharma,Delhi,2541.41,Home & Kitchen,Net Banking
+ORD-5221,2023-03-22,Anjali Verma,Uttar Pradesh,3183.01,Grocery,Cash on Delivery
+ORD-5222,2023-01-27,Amit Patel,Tamil Nadu,3532.86,Beauty & Personal Care,UPI
+ORD-5223,2023-05-20,Kavita Iyer,Gujarat,2489.2,Home & Kitchen,Cash on Delivery
+ORD-5224,2023-05-20,Sneha Gupta,Karnataka,999.0,Grocery,Net Banking
+ORD-5225,2023-12-14,Deepa Lakshmi,Telangana,986.132,Beauty & Personal Care,Debit Card
+ORD-5226,2023-07-22,Deepa Lakshmi,Maharashtra,33085.16,Electronics,Credit Card
+ORD-5227,2023-04-19,Amit Patel,Uttar Pradesh,1039.93,Grocery,Debit Card
+ORD-5228,2023-09-12,Sandeep Reddy,Tamil Nadu,4961.79,Fashion,Net Banking
+ORD-5229,2023-04-28,Arjun Nair,West Bengal,66705.86,Electronics,Net Banking
+ORD-5230,2023-01-22,Sandeep Reddy,Maharashtra,4379.5,Home & Kitchen,UPI
+ORD-5231,2023-10-22,Sandeep Reddy,Gujarat,1425.5919999999999,Home & Kitchen,Debit Card
+ORD-5232,2023-01-11,Anjali Verma,Tamil Nadu,4244.12,Beauty & Personal Care,Net Banking
+ORD-5233,2023-07-05,Priya Sharma,Gujarat,41140.59,Electronics,Credit Card
+ORD-5234,2023-07-25,Arjun Nair,Karnataka,3856.12,Home & Kitchen,Debit Card
+ORD-5235,2023-04-24,Anjali Verma,Tamil Nadu,52993.48,Electronics,Cash on Delivery
+ORD-5236,2023-09-29,Arjun Nair,Delhi,3773.21,Grocery,Debit Card
+ORD-5237,2023-11-27,Amit Patel,Delhi,42501.326,Electronics,Credit Card
+ORD-5238,2023-03-30,Deepa Lakshmi,Tamil Nadu,72077.53,Electronics,Credit Card
+ORD-5239,2023-11-18,Kavita Iyer,Telangana,3528.098,Beauty & Personal Care,Cash on Delivery
+ORD-5240,2023-10-17,Deepa Lakshmi,West Bengal,3470.5019999999995,Grocery,Credit Card
+ORD-5241,2023-08-29,Kavita Iyer,Uttar Pradesh,752.77,Grocery,Cash on Delivery
+ORD-5242,2023-09-17,Priya Sharma,Uttar Pradesh,669.23,Home & Kitchen,Net Banking
+ORD-5243,2023-07-08,Vikram Singh,Karnataka,50644.79,Electronics,Cash on Delivery
+ORD-5244,2023-07-16,Kavita Iyer,Maharashtra,3433.27,Home & Kitchen,Cash on Delivery
+ORD-5245,2023-06-14,Deepa Lakshmi,Telangana,4809.75,Beauty & Personal Care,Credit Card
+ORD-5246,2023-08-19,Priya Sharma,West Bengal,53767.63,Electronics,Cash on Delivery
+ORD-5247,2023-01-21,Sneha Gupta,Telangana,2852.37,Home & Kitchen,Cash on Delivery
+ORD-5248,2023-03-23,Anjali Verma,West Bengal,2339.46,Grocery,Net Banking
+ORD-5249,2023-06-23,Deepa Lakshmi,Maharashtra,1983.61,Grocery,UPI
+ORD-5250,2023-10-13,Sandeep Reddy,Uttar Pradesh,6201.664,Grocery,Cash on Delivery
+ORD-5251,2023-06-20,Priya Sharma,Tamil Nadu,4854.63,Grocery,Debit Card
+ORD-5252,2023-12-24,Sandeep Reddy,Tamil Nadu,2650.3679999999995,Beauty & Personal Care,UPI
+ORD-5253,2023-07-12,Anjali Verma,Tamil Nadu,3407.11,Beauty & Personal Care,UPI
+ORD-5254,2023-08-05,Arjun Nair,West Bengal,33531.96,Electronics,Debit Card
+ORD-5255,2023-04-20,Anjali Verma,Telangana,7999.85,Fashion,Credit Card
+ORD-5256,2023-03-21,Priya Sharma,Uttar Pradesh,61252.48,Electronics,Cash on Delivery
+ORD-5257,2023-09-27,Rajesh Kumar,West Bengal,3187.61,Beauty & Personal Care,Credit Card
+ORD-5258,2023-03-20,Amit Patel,Tamil Nadu,3745.32,Beauty & Personal Care,Credit Card
+ORD-5259,2023-01-23,Sandeep Reddy,West Bengal,5468.87,Fashion,Net Banking
+ORD-5260,2023-08-18,Sneha Gupta,Delhi,4567.88,Grocery,Net Banking
+ORD-5261,2023-04-10,Anjali Verma,Telangana,4001.56,Home & Kitchen,Debit Card
+ORD-5262,2023-09-15,Arjun Nair,Gujarat,6708.18,Fashion,Credit Card
+ORD-5263,2023-03-12,Vikram Singh,Maharashtra,2995.43,Home & Kitchen,Debit Card
+ORD-5264,2023-02-22,Arjun Nair,Karnataka,3934.03,Grocery,UPI
+ORD-5265,2023-05-20,Kavita Iyer,Tamil Nadu,4758.86,Home & Kitchen,UPI
+ORD-5266,2023-04-24,Kavita Iyer,West Bengal,18195.41,Electronics,Net Banking
+ORD-5267,2023-09-15,Anjali Verma,Delhi,2187.11,Home & Kitchen,UPI
+ORD-5268,2023-01-15,Anjali Verma,Karnataka,1119.2,Grocery,Credit Card
+ORD-5269,2023-05-27,Kavita Iyer,Tamil Nadu,3269.07,Home & Kitchen,Net Banking
+ORD-5270,2023-02-10,Rajesh Kumar,Uttar Pradesh,5067.23,Fashion,Credit Card
+ORD-5271,2023-11-08,Arjun Nair,Gujarat,40961.774,Electronics,Debit Card
+ORD-5272,2023-03-04,Rajesh Kumar,Delhi,2557.01,Home & Kitchen,Cash on Delivery
+ORD-5273,2023-02-26,Kavita Iyer,Maharashtra,1588.72,Beauty & Personal Care,Cash on Delivery
+ORD-5274,2023-03-15,Vikram Singh,Gujarat,36168.96,Electronics,Cash on Delivery
+ORD-5275,2023-10-20,Sandeep Reddy,Tamil Nadu,102870.978,Electronics,Cash on Delivery
+ORD-5276,2023-02-04,Arjun Nair,Maharashtra,695.9,Home & Kitchen,Net Banking
+ORD-5277,2023-07-18,Anjali Verma,Uttar Pradesh,62311.2,Electronics,Debit Card
+ORD-5278,2023-06-26,Sneha Gupta,Karnataka,1100.34,Beauty & Personal Care,Debit Card
+ORD-5279,2023-06-30,Arjun Nair,West Bengal,7875.32,Fashion,Net Banking
+ORD-5280,2023-09-03,Amit Patel,Tamil Nadu,17219.03,Electronics,Net Banking
+ORD-5281,2023-04-14,Rajesh Kumar,Delhi,71002.26,Electronics,Debit Card
+ORD-5282,2023-09-21,Sandeep Reddy,Telangana,3889.81,Grocery,UPI
+ORD-5283,2023-04-08,Vikram Singh,West Bengal,31393.0,Electronics,Debit Card
+ORD-5284,2023-07-08,Sandeep Reddy,Gujarat,2025.66,Home & Kitchen,Net Banking
+ORD-5285,2023-04-06,Kavita Iyer,Telangana,1700.24,Grocery,Cash on Delivery
+ORD-5286,2023-02-12,Sandeep Reddy,Karnataka,4977.94,Home & Kitchen,Cash on Delivery
+ORD-5287,2023-04-03,Arjun Nair,Uttar Pradesh,860.31,Grocery,UPI
+ORD-5288,2023-12-05,Vikram Singh,Uttar Pradesh,5221.272,Home & Kitchen,Cash on Delivery
+ORD-5289,2023-03-27,Kavita Iyer,West Bengal,3770.66,Home & Kitchen,UPI
+ORD-5290,2023-06-30,Deepa Lakshmi,Gujarat,837.69,Grocery,UPI
+ORD-5291,2023-11-23,Sandeep Reddy,West Bengal,6702.57,Beauty & Personal Care,Credit Card
+ORD-5292,2023-03-15,Deepa Lakshmi,Telangana,19034.0,Electronics,Credit Card
+ORD-5293,2023-11-27,Anjali Verma,West Bengal,904.0219999999999,Home & Kitchen,Cash on Delivery
+ORD-5294,2023-03-20,Kavita Iyer,West Bengal,3933.88,Grocery,Net Banking
+ORD-5295,2023-10-21,Amit Patel,West Bengal,4792.228,Home & Kitchen,Debit Card
+ORD-5296,2023-05-08,Priya Sharma,Maharashtra,4865.34,Fashion,Net Banking
+ORD-5297,2023-10-15,Priya Sharma,Uttar Pradesh,2051.798,Grocery,Net Banking
+ORD-5298,2023-11-10,Vikram Singh,Telangana,3335.122,Fashion,UPI
+ORD-5299,2023-02-07,Kavita Iyer,Tamil Nadu,4147.31,Home & Kitchen,UPI
+ORD-5300,2023-06-13,Anjali Verma,Karnataka,1806.63,Beauty & Personal Care,Cash on Delivery
+ORD-5301,2023-06-03,Amit Patel,Tamil Nadu,1509.09,Grocery,Cash on Delivery
+ORD-5302,2023-04-13,Amit Patel,Delhi,2124.03,Home & Kitchen,UPI
+ORD-5303,2023-10-21,Anjali Verma,Telangana,4555.277999999999,Beauty & Personal Care,Credit Card
+ORD-5304,2023-02-14,Priya Sharma,Uttar Pradesh,2865.63,Home & Kitchen,Net Banking
+ORD-5305,2023-07-29,Deepa Lakshmi,Karnataka,5675.2,Fashion,Debit Card
+ORD-5306,2023-08-19,Kavita Iyer,West Bengal,5658.66,Fashion,Cash on Delivery
+ORD-5307,2023-04-04,Amit Patel,Gujarat,4241.26,Beauty & Personal Care,UPI
+ORD-5308,2023-09-23,Amit Patel,Uttar Pradesh,3597.29,Fashion,Credit Card
+ORD-5309,2023-12-30,Sneha Gupta,West Bengal,6029.379999999999,Beauty & Personal Care,Debit Card
+ORD-5310,2023-05-09,Sneha Gupta,Uttar Pradesh,5493.78,Fashion,Debit Card
+ORD-5311,2023-02-17,Arjun Nair,Tamil Nadu,1193.87,Beauty & Personal Care,Cash on Delivery
+ORD-5312,2023-12-04,Deepa Lakshmi,West Bengal,5898.984,Beauty & Personal Care,UPI
+ORD-5313,2023-01-15,Priya Sharma,Maharashtra,3430.08,Beauty & Personal Care,Debit Card
+ORD-5314,2023-10-20,Sandeep Reddy,Maharashtra,2524.928,Home & Kitchen,Cash on Delivery
+ORD-5315,2023-06-04,Kavita Iyer,Delhi,2540.95,Home & Kitchen,Debit Card
+ORD-5316,2023-12-19,Rajesh Kumar,Tamil Nadu,3750.7819999999997,Home & Kitchen,Net Banking
+ORD-5317,2023-04-15,Anjali Verma,Tamil Nadu,3803.9,Grocery,Debit Card
+ORD-5318,2023-06-26,Sandeep Reddy,Tamil Nadu,3027.43,Grocery,Cash on Delivery
+ORD-5319,2023-06-13,Sneha Gupta,Telangana,41975.76,Electronics,Debit Card
+ORD-5320,2023-03-14,Priya Sharma,Maharashtra,4388.74,Grocery,Net Banking
+ORD-5321,2023-08-03,Sneha Gupta,Tamil Nadu,3745.08,Grocery,Cash on Delivery
+ORD-5322,2023-04-08,Amit Patel,Telangana,2744.42,Beauty & Personal Care,Net Banking
+ORD-5323,2023-06-07,Kavita Iyer,Maharashtra,45326.67,Electronics,Net Banking
+ORD-5324,2023-05-04,Sneha Gupta,West Bengal,31881.38,Electronics,UPI
+ORD-5325,2023-11-02,Kavita Iyer,Uttar Pradesh,6037.191999999999,Beauty & Personal Care,UPI
+ORD-5326,2023-08-09,Amit Patel,Uttar Pradesh,2146.72,Grocery,Net Banking
+ORD-5327,2023-07-25,Rajesh Kumar,Delhi,1798.71,Grocery,Cash on Delivery
+ORD-5328,2023-07-17,Arjun Nair,Telangana,4213.9,Beauty & Personal Care,Debit Card
+ORD-5329,2023-11-16,Deepa Lakshmi,Karnataka,5684.517999999999,Fashion,UPI
+ORD-5330,2023-06-23,Arjun Nair,West Bengal,5416.01,Fashion,Credit Card
+ORD-5331,2023-07-25,Arjun Nair,Maharashtra,23222.18,Electronics,UPI
+ORD-5332,2023-06-20,Kavita Iyer,Telangana,7305.36,Fashion,Cash on Delivery
+ORD-5333,2023-03-13,Anjali Verma,West Bengal,7939.0,Fashion,Net Banking
+ORD-5334,2023-06-03,Deepa Lakshmi,West Bengal,2895.53,Beauty & Personal Care,Cash on Delivery
+ORD-5335,2023-12-29,Deepa Lakshmi,Uttar Pradesh,3020.654,Home & Kitchen,UPI
+ORD-5336,2023-12-11,Priya Sharma,Gujarat,5719.5599999999995,Beauty & Personal Care,Debit Card
+ORD-5337,2023-12-19,Rajesh Kumar,Telangana,4339.089999999999,Grocery,Cash on Delivery
+ORD-5338,2023-01-27,Deepa Lakshmi,Telangana,5588.66,Fashion,Cash on Delivery
+ORD-5339,2023-11-14,Sandeep Reddy,Tamil Nadu,7310.393999999999,Fashion,UPI
+ORD-5340,2023-12-25,Priya Sharma,Delhi,47350.17,Electronics,Net Banking
+ORD-5341,2023-03-19,Sandeep Reddy,Delhi,3987.38,Home & Kitchen,Cash on Delivery
+ORD-5342,2023-08-30,Rajesh Kumar,Tamil Nadu,3023.99,Beauty & Personal Care,Credit Card
+ORD-5343,2023-12-06,Kavita Iyer,Gujarat,3595.8859999999995,Grocery,Credit Card
+ORD-5344,2023-09-30,Anjali Verma,West Bengal,2678.81,Grocery,Cash on Delivery
+ORD-5345,2023-05-07,Vikram Singh,Uttar Pradesh,6512.63,Fashion,Debit Card
+ORD-5346,2023-12-27,Sneha Gupta,Telangana,2897.454,Grocery,Net Banking
+ORD-5347,2023-05-21,Vikram Singh,Karnataka,2208.62,Beauty & Personal Care,Cash on Delivery
+ORD-5348,2023-07-22,Anjali Verma,Tamil Nadu,1794.34,Grocery,UPI
+ORD-5349,2023-02-10,Anjali Verma,Telangana,1462.94,Grocery,Net Banking
+ORD-5350,2023-10-03,Vikram Singh,Uttar Pradesh,7702.659999999999,Fashion,UPI
+ORD-5351,2023-10-28,Sneha Gupta,Delhi,39956.42,Electronics,Cash on Delivery
+ORD-5352,2023-04-30,Rajesh Kumar,Karnataka,3728.11,Home & Kitchen,Debit Card
+ORD-5353,2023-02-21,Amit Patel,Maharashtra,2331.08,Beauty & Personal Care,Credit Card
+ORD-5354,2023-09-01,Kavita Iyer,Delhi,1784.37,Grocery,Debit Card
+ORD-5355,2023-01-31,Priya Sharma,Delhi,4609.53,Beauty & Personal Care,UPI
+ORD-5356,2023-03-31,Sandeep Reddy,Tamil Nadu,62277.64,Electronics,Net Banking
+ORD-5357,2023-04-06,Vikram Singh,Maharashtra,49077.71,Electronics,Debit Card
+ORD-5358,2023-02-24,Anjali Verma,Uttar Pradesh,2859.43,Home & Kitchen,Cash on Delivery
+ORD-5359,2023-03-10,Arjun Nair,Telangana,4139.66,Grocery,Credit Card
+ORD-5360,2023-06-19,Amit Patel,Telangana,563.38,Grocery,Credit Card
+ORD-5361,2023-06-22,Vikram Singh,Delhi,7064.95,Fashion,Cash on Delivery
+ORD-5362,2023-07-27,Sandeep Reddy,West Bengal,55155.35,Electronics,Net Banking
+ORD-5363,2023-04-05,Amit Patel,Telangana,530.74,Grocery,Credit Card
+ORD-5364,2023-07-16,Sneha Gupta,Telangana,1858.76,Grocery,Debit Card
+ORD-5365,2023-10-21,Rajesh Kumar,Uttar Pradesh,1091.3839999999998,Grocery,Credit Card
+ORD-5366,2023-03-02,Kavita Iyer,Uttar Pradesh,5959.48,Fashion,Net Banking
+ORD-5367,2023-12-27,Vikram Singh,Karnataka,4572.134,Grocery,Debit Card
+ORD-5368,2023-04-23,Amit Patel,Telangana,6360.28,Fashion,Net Banking
+ORD-5369,2023-11-07,Anjali Verma,Gujarat,5471.312,Beauty & Personal Care,Net Banking
+ORD-5370,2023-12-07,Sneha Gupta,Delhi,4010.692,Beauty & Personal Care,UPI
+ORD-5371,2023-09-28,Anjali Verma,Karnataka,777.91,Beauty & Personal Care,UPI
+ORD-5372,2023-10-08,Arjun Nair,Delhi,1644.0759999999998,Beauty & Personal Care,Cash on Delivery
+ORD-5373,2023-06-17,Arjun Nair,Telangana,58015.08,Electronics,Credit Card
+ORD-5374,2023-09-08,Priya Sharma,Telangana,22916.66,Electronics,Net Banking
+ORD-5375,2023-08-01,Kavita Iyer,Maharashtra,3527.45,Beauty & Personal Care,Net Banking
+ORD-5376,2023-06-07,Rajesh Kumar,Gujarat,3856.12,Grocery,UPI
+ORD-5377,2023-10-24,Priya Sharma,Maharashtra,5112.422,Home & Kitchen,Debit Card
+ORD-5378,2023-10-05,Rajesh Kumar,Karnataka,2508.674,Home & Kitchen,UPI
+ORD-5379,2023-04-03,Amit Patel,Gujarat,2518.42,Grocery,Net Banking
+ORD-5380,2023-07-13,Sandeep Reddy,Karnataka,3440.9,Beauty & Personal Care,Credit Card
+ORD-5381,2023-06-28,Priya Sharma,Tamil Nadu,2879.79,Beauty & Personal Care,Net Banking
+ORD-5382,2023-04-25,Rajesh Kumar,Maharashtra,3530.75,Grocery,Net Banking
+ORD-5383,2023-10-06,Sandeep Reddy,Gujarat,6291.684,Fashion,Credit Card
+ORD-5384,2023-03-21,Vikram Singh,Delhi,63568.69,Electronics,UPI
+ORD-5385,2023-08-03,Deepa Lakshmi,Maharashtra,1937.39,Fashion,Credit Card
+ORD-5386,2023-11-01,Rajesh Kumar,Telangana,2241.8199999999997,Beauty & Personal Care,UPI
+ORD-5387,2023-01-23,Sandeep Reddy,Telangana,2912.25,Fashion,Cash on Delivery
+ORD-5388,2023-01-29,Amit Patel,Uttar Pradesh,3572.87,Fashion,Cash on Delivery
+ORD-5389,2023-11-03,Anjali Verma,Delhi,6909.882,Grocery,Credit Card
+ORD-5390,2023-09-24,Sneha Gupta,Gujarat,774.31,Grocery,Debit Card
+ORD-5391,2023-10-30,Amit Patel,Gujarat,995.372,Beauty & Personal Care,Net Banking
+ORD-5392,2023-06-26,Sandeep Reddy,West Bengal,1171.48,Home & Kitchen,Net Banking
+ORD-5393,2023-07-12,Amit Patel,Telangana,3454.79,Fashion,Credit Card
+ORD-5394,2023-12-29,Amit Patel,Telangana,55664.909999999996,Electronics,Cash on Delivery
+ORD-5395,2023-08-02,Arjun Nair,Tamil Nadu,1647.48,Home & Kitchen,Credit Card
+ORD-5396,2023-06-19,Priya Sharma,Telangana,2910.36,Grocery,UPI
+ORD-5397,2023-04-08,Rajesh Kumar,Uttar Pradesh,3213.15,Home & Kitchen,Cash on Delivery
+ORD-5398,2023-02-07,Sneha Gupta,Delhi,4412.63,Home & Kitchen,Credit Card
+ORD-5399,2023-06-20,Vikram Singh,Maharashtra,7753.5,Fashion,Credit Card
+ORD-5400,2023-03-02,Kavita Iyer,Delhi,2284.84,Beauty & Personal Care,Credit Card
+ORD-5401,2023-05-03,Arjun Nair,West Bengal,2598.13,Grocery,Net Banking
+ORD-5402,2023-11-29,Anjali Verma,Uttar Pradesh,3930.738,Grocery,Debit Card
+ORD-5403,2023-09-12,Kavita Iyer,Karnataka,4614.49,Home & Kitchen,Debit Card
+ORD-5404,2023-07-09,Anjali Verma,Gujarat,66845.09,Electronics,Cash on Delivery
+ORD-5405,2023-03-16,Rajesh Kumar,Uttar Pradesh,3106.14,Beauty & Personal Care,Cash on Delivery
+ORD-5406,2023-08-02,Vikram Singh,Tamil Nadu,2995.12,Fashion,Debit Card
+ORD-5407,2023-10-19,Sneha Gupta,Telangana,2321.158,Beauty & Personal Care,Debit Card
+ORD-5408,2023-09-08,Kavita Iyer,Telangana,2600.23,Fashion,Debit Card
+ORD-5409,2023-10-07,Kavita Iyer,Tamil Nadu,4000.85,Beauty & Personal Care,UPI
+ORD-5410,2023-02-08,Rajesh Kumar,Maharashtra,4291.45,Home & Kitchen,Credit Card
+ORD-5411,2023-04-29,Priya Sharma,Tamil Nadu,45343.98,Electronics,Credit Card
+ORD-5412,2023-07-11,Rajesh Kumar,Telangana,529.76,Home & Kitchen,UPI
+ORD-5413,2023-10-10,Sandeep Reddy,Maharashtra,81664.184,Electronics,Cash on Delivery
+ORD-5414,2023-10-02,Vikram Singh,Maharashtra,5778.849999999999,Beauty & Personal Care,Net Banking
+ORD-5415,2023-04-02,Priya Sharma,Karnataka,1584.36,Beauty & Personal Care,Credit Card
+ORD-5416,2023-11-14,Arjun Nair,Uttar Pradesh,5708.094,Grocery,Debit Card
+ORD-5417,2023-02-10,Anjali Verma,Gujarat,1594.44,Home & Kitchen,Cash on Delivery
+ORD-5418,2023-12-23,Sneha Gupta,Uttar Pradesh,28854.041999999998,Electronics,UPI
+ORD-5419,2023-07-14,Sandeep Reddy,Telangana,57170.71,Electronics,UPI
+ORD-5420,2023-02-12,Kavita Iyer,Gujarat,4897.98,Grocery,Cash on Delivery
+ORD-5421,2023-02-18,Arjun Nair,Maharashtra,7358.27,Fashion,Credit Card
+ORD-5422,2023-12-21,Deepa Lakshmi,Telangana,6522.208,Grocery,UPI
+ORD-5423,2023-12-17,Vikram Singh,Maharashtra,2242.4919999999997,Fashion,Debit Card
+ORD-5424,2023-04-17,Deepa Lakshmi,Tamil Nadu,1846.75,Home & Kitchen,UPI
+ORD-5425,2023-10-16,Sneha Gupta,Gujarat,3118.234,Beauty & Personal Care,Debit Card
+ORD-5426,2023-03-13,Priya Sharma,West Bengal,41225.3,Electronics,UPI
+ORD-5427,2023-02-08,Anjali Verma,Gujarat,3353.55,Grocery,UPI
+ORD-5428,2023-08-19,Kavita Iyer,Delhi,4735.14,Grocery,Cash on Delivery
+ORD-5429,2023-08-10,Amit Patel,Gujarat,32722.77,Electronics,Cash on Delivery
+ORD-5430,2023-05-07,Priya Sharma,Karnataka,2210.0,Grocery,Credit Card
+ORD-5431,2023-11-21,Amit Patel,Gujarat,1371.272,Grocery,Debit Card
+ORD-5432,2023-01-03,Vikram Singh,Telangana,960.04,Grocery,Debit Card
+ORD-5433,2023-02-14,Amit Patel,Gujarat,2996.33,Home & Kitchen,Cash on Delivery
+ORD-5434,2023-07-28,Priya Sharma,Maharashtra,48253.19,Electronics,Debit Card
+ORD-5435,2023-11-02,Deepa Lakshmi,West Bengal,2538.6339999999996,Home & Kitchen,UPI
+ORD-5436,2023-07-18,Priya Sharma,Delhi,1263.12,Beauty & Personal Care,Cash on Delivery
+ORD-5437,2023-07-14,Amit Patel,Tamil Nadu,1707.83,Grocery,Debit Card
+ORD-5438,2023-03-16,Priya Sharma,Tamil Nadu,2394.96,Home & Kitchen,Debit Card
+ORD-5439,2023-09-05,Priya Sharma,West Bengal,3744.05,Grocery,Credit Card
+ORD-5440,2023-09-11,Deepa Lakshmi,Delhi,1109.7,Home & Kitchen,UPI
+ORD-5441,2023-01-04,Sandeep Reddy,West Bengal,4118.34,Beauty & Personal Care,Net Banking
+ORD-5442,2023-06-18,Kavita Iyer,West Bengal,1112.56,Home & Kitchen,Cash on Delivery
+ORD-5443,2023-06-14,Deepa Lakshmi,Delhi,1299.37,Home & Kitchen,Debit Card
+ORD-5444,2023-07-23,Anjali Verma,Uttar Pradesh,4018.88,Home & Kitchen,Cash on Delivery
+ORD-5445,2023-06-16,Sandeep Reddy,Uttar Pradesh,1012.5,Home & Kitchen,Debit Card
+ORD-5446,2023-10-16,Sneha Gupta,Tamil Nadu,6703.928,Beauty & Personal Care,UPI
+ORD-5447,2023-08-25,Sneha Gupta,Telangana,4185.35,Grocery,UPI
+ORD-5448,2023-07-29,Kavita Iyer,Tamil Nadu,1637.07,Grocery,Credit Card
+ORD-5449,2023-03-20,Sandeep Reddy,Gujarat,74442.04,Electronics,Net Banking
+ORD-5450,2023-09-03,Deepa Lakshmi,Gujarat,4655.73,Beauty & Personal Care,Cash on Delivery
+ORD-5451,2023-12-21,Sandeep Reddy,Maharashtra,4441.066,Grocery,Cash on Delivery
+ORD-5452,2023-02-13,Priya Sharma,Delhi,3411.5,Grocery,Credit Card
+ORD-5453,2023-01-23,Deepa Lakshmi,Gujarat,976.75,Grocery,Net Banking
+ORD-5454,2023-02-20,Vikram Singh,Delhi,3010.97,Beauty & Personal Care,Cash on Delivery
+ORD-5455,2023-12-19,Deepa Lakshmi,Delhi,3164.14,Home & Kitchen,Debit Card
+ORD-5456,2023-12-14,Deepa Lakshmi,Tamil Nadu,3741.4579999999996,Grocery,UPI
+ORD-5457,2023-06-01,Sandeep Reddy,Karnataka,35899.72,Electronics,Credit Card
+ORD-5458,2023-06-25,Kavita Iyer,Delhi,2067.35,Beauty & Personal Care,Net Banking
+ORD-5459,2023-02-19,Kavita Iyer,Telangana,1851.19,Grocery,UPI
+ORD-5460,2023-12-30,Priya Sharma,Maharashtra,4965.982,Grocery,UPI
+ORD-5461,2023-03-26,Sneha Gupta,Tamil Nadu,1989.45,Beauty & Personal Care,Credit Card
+ORD-5462,2023-08-07,Kavita Iyer,Delhi,1338.74,Home & Kitchen,Credit Card
+ORD-5463,2023-12-03,Sandeep Reddy,Gujarat,95180.17599999999,Electronics,Cash on Delivery
+ORD-5464,2023-08-19,Deepa Lakshmi,Gujarat,3671.31,Home & Kitchen,UPI
+ORD-5465,2023-04-16,Vikram Singh,Karnataka,4097.76,Beauty & Personal Care,UPI
+ORD-5466,2023-10-02,Amit Patel,West Bengal,3582.5719999999997,Grocery,Credit Card
+ORD-5467,2023-05-15,Kavita Iyer,West Bengal,3250.89,Beauty & Personal Care,Net Banking
+ORD-5468,2023-10-28,Priya Sharma,West Bengal,4589.382,Grocery,Net Banking
+ORD-5469,2023-12-11,Vikram Singh,Karnataka,3172.5399999999995,Fashion,Debit Card
+ORD-5470,2023-06-06,Priya Sharma,Tamil Nadu,2798.71,Grocery,Credit Card
+ORD-5471,2023-08-03,Deepa Lakshmi,Tamil Nadu,2403.67,Beauty & Personal Care,Net Banking
+ORD-5472,2023-09-07,Arjun Nair,Tamil Nadu,2703.39,Beauty & Personal Care,Credit Card
+ORD-5473,2023-03-13,Amit Patel,West Bengal,741.25,Home & Kitchen,Cash on Delivery
+ORD-5474,2023-07-03,Rajesh Kumar,Telangana,6798.9,Fashion,Credit Card
+ORD-5475,2023-10-15,Arjun Nair,Telangana,3318.476,Home & Kitchen,Net Banking
+ORD-5476,2023-08-16,Kavita Iyer,Tamil Nadu,16851.64,Electronics,Cash on Delivery
+ORD-5477,2023-04-23,Vikram Singh,Maharashtra,2919.24,Grocery,Credit Card
+ORD-5478,2023-03-28,Kavita Iyer,Telangana,1009.45,Beauty & Personal Care,Cash on Delivery
+ORD-5479,2023-02-28,Vikram Singh,West Bengal,3920.02,Beauty & Personal Care,UPI
+ORD-5480,2023-08-14,Arjun Nair,Delhi,3811.95,Home & Kitchen,UPI
+ORD-5481,2023-12-01,Sneha Gupta,Uttar Pradesh,43076.473999999995,Electronics,Net Banking
+ORD-5482,2023-02-14,Kavita Iyer,Karnataka,6769.57,Fashion,Credit Card
+ORD-5483,2023-10-29,Anjali Verma,Gujarat,3367.042,Fashion,Cash on Delivery
+ORD-5484,2023-04-16,Sneha Gupta,Maharashtra,2895.26,Beauty & Personal Care,Debit Card
+ORD-5485,2023-11-02,Arjun Nair,Tamil Nadu,2522.7999999999997,Grocery,Debit Card
+ORD-5486,2023-05-17,Arjun Nair,Karnataka,7472.0,Fashion,Net Banking
+ORD-5487,2023-05-22,Amit Patel,Tamil Nadu,6124.07,Fashion,Credit Card
+ORD-5488,2023-05-07,Sandeep Reddy,Telangana,5610.61,Fashion,Cash on Delivery
+ORD-5489,2023-11-18,Sandeep Reddy,Gujarat,4691.848,Home & Kitchen,UPI
+ORD-5490,2023-02-17,Sandeep Reddy,Uttar Pradesh,4776.14,Grocery,Net Banking
+ORD-5491,2023-06-17,Deepa Lakshmi,Maharashtra,53090.43,Electronics,Net Banking
+ORD-5492,2023-12-24,Anjali Verma,Karnataka,2072.322,Beauty & Personal Care,Net Banking
+ORD-5493,2023-08-08,Sneha Gupta,Telangana,4227.55,Grocery,Debit Card
+ORD-5494,2023-06-22,Arjun Nair,Tamil Nadu,4047.37,Beauty & Personal Care,Net Banking
+ORD-5495,2023-12-16,Rajesh Kumar,Maharashtra,22367.631999999998,Electronics,Net Banking
+ORD-5496,2023-03-22,Kavita Iyer,Telangana,27139.09,Electronics,Net Banking
+ORD-5497,2023-12-19,Amit Patel,Uttar Pradesh,2949.394,Fashion,Debit Card
+ORD-5498,2023-07-04,Vikram Singh,Karnataka,733.04,Grocery,Credit Card
+ORD-5499,2023-11-17,Vikram Singh,Delhi,5133.295999999999,Home & Kitchen,UPI
+ORD-5500,2023-01-01,Sneha Gupta,Telangana,50620.77,Electronics,Credit Card
+ORD-5501,2023-09-23,Kavita Iyer,Maharashtra,64026.54,Electronics,Debit Card
+ORD-5502,2023-08-05,Amit Patel,Telangana,37984.2,Electronics,Credit Card
+ORD-5503,2023-02-22,Priya Sharma,West Bengal,1117.08,Grocery,Debit Card
+ORD-5504,2023-03-10,Amit Patel,Karnataka,538.14,Beauty & Personal Care,Cash on Delivery
+ORD-5505,2023-11-29,Amit Patel,Telangana,4656.9039999999995,Grocery,Credit Card
+ORD-5506,2023-03-19,Sandeep Reddy,Telangana,7327.85,Fashion,UPI
+ORD-5507,2023-03-13,Priya Sharma,Gujarat,1915.27,Grocery,Net Banking
+ORD-5508,2023-03-13,Sneha Gupta,Uttar Pradesh,48203.8,Electronics,Credit Card
+ORD-5509,2023-11-04,Deepa Lakshmi,Uttar Pradesh,38257.436,Electronics,Debit Card
+ORD-5510,2023-11-07,Arjun Nair,Delhi,4770.864,Home & Kitchen,Debit Card
+ORD-5511,2023-05-03,Kavita Iyer,Gujarat,44974.95,Electronics,Credit Card
+ORD-5512,2023-11-01,Priya Sharma,Maharashtra,1531.488,Grocery,Debit Card
+ORD-5513,2023-10-19,Sandeep Reddy,West Bengal,5505.178,Beauty & Personal Care,Credit Card
+ORD-5514,2023-02-07,Rajesh Kumar,Karnataka,27944.58,Electronics,Debit Card
+ORD-5515,2023-01-31,Sandeep Reddy,Uttar Pradesh,2406.09,Beauty & Personal Care,Net Banking
+ORD-5516,2023-07-25,Priya Sharma,Tamil Nadu,1894.58,Grocery,UPI
+ORD-5517,2023-09-19,Sneha Gupta,Tamil Nadu,2258.29,Beauty & Personal Care,Debit Card
+ORD-5518,2023-11-21,Priya Sharma,Uttar Pradesh,1064.812,Home & Kitchen,Credit Card
+ORD-5519,2023-02-14,Sandeep Reddy,Karnataka,3239.75,Home & Kitchen,Cash on Delivery
+ORD-5520,2023-06-08,Amit Patel,Karnataka,57089.98,Electronics,Credit Card
+ORD-5521,2023-03-25,Kavita Iyer,West Bengal,4023.44,Beauty & Personal Care,Cash on Delivery
+ORD-5522,2023-05-13,Amit Patel,West Bengal,6264.08,Fashion,Debit Card
+ORD-5523,2023-03-02,Rajesh Kumar,West Bengal,2857.34,Home & Kitchen,Debit Card
+ORD-5524,2023-05-15,Deepa Lakshmi,Karnataka,2798.52,Home & Kitchen,Net Banking
+ORD-5525,2023-01-29,Kavita Iyer,Tamil Nadu,1648.02,Grocery,Credit Card
+ORD-5526,2023-02-22,Deepa Lakshmi,Karnataka,1516.7,Fashion,Cash on Delivery
+ORD-5527,2023-01-07,Sneha Gupta,Maharashtra,2223.41,Home & Kitchen,Debit Card
+ORD-5528,2023-03-18,Amit Patel,Maharashtra,1510.32,Beauty & Personal Care,Net Banking
+ORD-5529,2023-05-08,Sandeep Reddy,West Bengal,3071.91,Grocery,UPI
+ORD-5530,2023-03-03,Arjun Nair,Maharashtra,6728.2,Fashion,Credit Card
+ORD-5531,2023-01-24,Sandeep Reddy,Karnataka,3980.87,Home & Kitchen,Debit Card
+ORD-5532,2023-06-09,Anjali Verma,Karnataka,535.86,Beauty & Personal Care,Net Banking
+ORD-5533,2023-04-13,Vikram Singh,Uttar Pradesh,2587.67,Beauty & Personal Care,Credit Card
+ORD-5534,2023-10-30,Kavita Iyer,Delhi,1648.57,Beauty & Personal Care,Credit Card
+ORD-5535,2023-07-29,Rajesh Kumar,Delhi,3361.74,Beauty & Personal Care,Debit Card
+ORD-5536,2023-12-22,Rajesh Kumar,West Bengal,92316.504,Electronics,Net Banking
+ORD-5537,2023-06-07,Priya Sharma,Delhi,2389.17,Beauty & Personal Care,Credit Card
+ORD-5538,2023-01-31,Amit Patel,Uttar Pradesh,70276.46,Electronics,UPI
+ORD-5539,2023-09-24,Sandeep Reddy,West Bengal,3113.47,Home & Kitchen,UPI
+ORD-5540,2023-09-16,Amit Patel,Gujarat,49069.24,Electronics,Cash on Delivery
+ORD-5541,2023-08-11,Amit Patel,Delhi,4329.11,Grocery,Debit Card
+ORD-5542,2023-07-21,Anjali Verma,West Bengal,1551.25,Home & Kitchen,Debit Card
+ORD-5543,2023-04-14,Amit Patel,Karnataka,2568.44,Fashion,UPI
+ORD-5544,2023-08-27,Anjali Verma,Gujarat,36497.25,Electronics,Cash on Delivery
+ORD-5545,2023-04-17,Kavita Iyer,Uttar Pradesh,4336.17,Home & Kitchen,Debit Card
+ORD-5546,2023-02-16,Amit Patel,Uttar Pradesh,1467.59,Beauty & Personal Care,UPI
+ORD-5547,2023-06-17,Amit Patel,Karnataka,4075.59,Fashion,Debit Card
+ORD-5548,2023-01-26,Vikram Singh,Uttar Pradesh,7688.63,Fashion,UPI
+ORD-5549,2023-08-20,Arjun Nair,Delhi,21114.44,Electronics,Net Banking
+ORD-5550,2023-03-13,Priya Sharma,Maharashtra,22842.91,Electronics,Credit Card
+ORD-5551,2023-07-25,Anjali Verma,Karnataka,1664.69,Beauty & Personal Care,Cash on Delivery
+ORD-5552,2023-02-08,Rajesh Kumar,Karnataka,6760.44,Fashion,Net Banking
+ORD-5553,2023-02-17,Anjali Verma,Karnataka,18038.26,Electronics,Net Banking
+ORD-5554,2023-10-21,Sandeep Reddy,Gujarat,3111.192,Home & Kitchen,UPI
+ORD-5555,2023-08-07,Amit Patel,West Bengal,3287.38,Fashion,Credit Card
+ORD-5556,2023-08-17,Amit Patel,Maharashtra,3276.4,Beauty & Personal Care,Cash on Delivery
+ORD-5557,2023-11-28,Vikram Singh,Telangana,3717.8959999999997,Home & Kitchen,Cash on Delivery
+ORD-5558,2023-02-14,Vikram Singh,Gujarat,2796.48,Fashion,Net Banking
+ORD-5559,2023-09-27,Sneha Gupta,Maharashtra,2658.58,Home & Kitchen,Debit Card
+ORD-5560,2023-09-06,Anjali Verma,West Bengal,1309.17,Home & Kitchen,Debit Card
+ORD-5561,2023-06-13,Deepa Lakshmi,Delhi,18515.47,Electronics,Debit Card
+ORD-5562,2023-08-30,Arjun Nair,West Bengal,4882.91,Beauty & Personal Care,Credit Card
+ORD-5563,2023-02-21,Sneha Gupta,Delhi,4173.28,Grocery,Cash on Delivery
+ORD-5564,2023-01-29,Sneha Gupta,Gujarat,1292.45,Grocery,Credit Card
+ORD-5565,2023-10-31,Anjali Verma,West Bengal,5131.755999999999,Beauty & Personal Care,UPI
+ORD-5566,2023-06-30,Deepa Lakshmi,Tamil Nadu,4265.14,Beauty & Personal Care,Credit Card
+ORD-5567,2023-09-10,Arjun Nair,Uttar Pradesh,1746.76,Fashion,Net Banking
+ORD-5568,2023-01-29,Sneha Gupta,Delhi,43679.34,Electronics,Cash on Delivery
+ORD-5569,2023-06-19,Deepa Lakshmi,Delhi,6160.09,Fashion,Debit Card
+ORD-5570,2023-06-15,Rajesh Kumar,Maharashtra,6080.53,Fashion,Cash on Delivery
+ORD-5571,2023-03-14,Priya Sharma,West Bengal,57272.28,Electronics,Debit Card
+ORD-5572,2023-12-06,Sandeep Reddy,Karnataka,2732.394,Grocery,Debit Card
+ORD-5573,2023-03-22,Sandeep Reddy,Telangana,3682.32,Grocery,Credit Card
+ORD-5574,2023-10-15,Deepa Lakshmi,West Bengal,9511.529999999999,Fashion,Cash on Delivery
+ORD-5575,2023-07-13,Vikram Singh,Uttar Pradesh,6237.4,Fashion,Credit Card
+ORD-5576,2023-12-26,Deepa Lakshmi,Gujarat,1847.1179999999997,Beauty & Personal Care,UPI
+ORD-5577,2023-06-12,Deepa Lakshmi,Delhi,4715.1,Beauty & Personal Care,UPI
+ORD-5578,2023-03-14,Anjali Verma,Karnataka,7885.47,Fashion,Debit Card
+ORD-5579,2023-03-27,Priya Sharma,West Bengal,1693.46,Home & Kitchen,UPI
+ORD-5580,2023-05-08,Priya Sharma,West Bengal,3741.86,Grocery,UPI
+ORD-5581,2023-01-25,Sandeep Reddy,Telangana,4480.48,Home & Kitchen,Credit Card
+ORD-5582,2023-09-10,Sandeep Reddy,West Bengal,956.43,Beauty & Personal Care,Net Banking
+ORD-5583,2023-09-03,Deepa Lakshmi,Delhi,1979.11,Fashion,Net Banking
+ORD-5584,2023-01-18,Vikram Singh,Maharashtra,4782.48,Grocery,Debit Card
+ORD-5585,2023-02-07,Anjali Verma,Tamil Nadu,3793.93,Home & Kitchen,Credit Card
+ORD-5586,2023-10-08,Priya Sharma,West Bengal,6327.328,Beauty & Personal Care,Cash on Delivery
+ORD-5587,2023-12-27,Rajesh Kumar,Gujarat,10196.759999999998,Fashion,Cash on Delivery
+ORD-5588,2023-03-22,Rajesh Kumar,Karnataka,4884.79,Grocery,Credit Card
+ORD-5589,2023-07-29,Arjun Nair,Uttar Pradesh,1568.97,Grocery,Debit Card
+ORD-5590,2023-01-26,Sandeep Reddy,Telangana,3845.39,Fashion,UPI
+ORD-5591,2023-08-07,Priya Sharma,Uttar Pradesh,1398.54,Beauty & Personal Care,Net Banking
+ORD-5592,2023-01-14,Sneha Gupta,Tamil Nadu,2631.07,Grocery,UPI
+ORD-5593,2023-03-01,Vikram Singh,Gujarat,4526.95,Home & Kitchen,Net Banking
+ORD-5594,2023-05-16,Priya Sharma,Gujarat,7255.7,Fashion,Debit Card
+ORD-5595,2023-07-09,Amit Patel,Telangana,41384.43,Electronics,Debit Card
+ORD-5596,2023-05-15,Sneha Gupta,Uttar Pradesh,1180.09,Beauty & Personal Care,UPI
+ORD-5597,2023-12-23,Priya Sharma,Karnataka,3308.116,Grocery,Cash on Delivery
+ORD-5598,2023-10-29,Sneha Gupta,Maharashtra,3337.376,Home & Kitchen,Cash on Delivery
+ORD-5599,2023-10-02,Kavita Iyer,Delhi,1197.4199999999998,Home & Kitchen,Debit Card
+ORD-5600,2023-01-18,Arjun Nair,Tamil Nadu,25372.74,Electronics,Net Banking
+ORD-5601,2023-03-27,Sneha Gupta,Delhi,4251.94,Fashion,UPI
+ORD-5602,2023-12-16,Sandeep Reddy,Delhi,4446.764,Fashion,Cash on Delivery
+ORD-5603,2023-02-04,Priya Sharma,Gujarat,2984.24,Beauty & Personal Care,Net Banking
+ORD-5604,2023-05-22,Arjun Nair,Telangana,50254.57,Electronics,Cash on Delivery
+ORD-5605,2023-08-03,Priya Sharma,Gujarat,5182.86,Fashion,Credit Card
+ORD-5606,2023-10-26,Priya Sharma,Karnataka,5650.204,Beauty & Personal Care,UPI
+ORD-5607,2023-10-02,Anjali Verma,Gujarat,4825.156,Grocery,Net Banking
+ORD-5608,2023-10-20,Deepa Lakshmi,Telangana,44134.78999999999,Electronics,Credit Card
+ORD-5609,2023-03-15,Deepa Lakshmi,Gujarat,68374.45,Electronics,Net Banking
+ORD-5610,2023-06-19,Sneha Gupta,Maharashtra,4536.64,Home & Kitchen,Debit Card
+ORD-5611,2023-01-11,Anjali Verma,Uttar Pradesh,4292.81,Grocery,Debit Card
+ORD-5612,2023-12-23,Priya Sharma,Delhi,10965.402,Fashion,Debit Card
+ORD-5613,2023-08-15,Anjali Verma,Uttar Pradesh,3405.0,Home & Kitchen,Cash on Delivery
+ORD-5614,2023-04-07,Kavita Iyer,Delhi,3917.72,Home & Kitchen,Net Banking
+ORD-5615,2023-07-11,Rajesh Kumar,Tamil Nadu,57574.16,Electronics,Debit Card
+ORD-5616,2023-07-26,Amit Patel,Maharashtra,7188.67,Fashion,Credit Card
+ORD-5617,2023-04-13,Rajesh Kumar,Delhi,18033.56,Electronics,Net Banking
+ORD-5618,2023-07-04,Sneha Gupta,Uttar Pradesh,2773.07,Grocery,Net Banking
+ORD-5619,2023-11-22,Priya Sharma,Maharashtra,6547.953999999999,Fashion,Debit Card
+ORD-5620,2023-08-17,Amit Patel,Telangana,2073.92,Beauty & Personal Care,Cash on Delivery
+ORD-5621,2023-03-25,Vikram Singh,Karnataka,2239.55,Grocery,UPI
+ORD-5622,2023-03-25,Deepa Lakshmi,Delhi,5905.02,Fashion,Credit Card
+ORD-5623,2023-05-18,Sandeep Reddy,Maharashtra,69690.93,Electronics,Net Banking
+ORD-5624,2023-11-28,Amit Patel,Maharashtra,7635.935999999999,Fashion,Debit Card
+ORD-5625,2023-06-06,Vikram Singh,Gujarat,2565.49,Home & Kitchen,Debit Card
+ORD-5626,2023-04-22,Kavita Iyer,Uttar Pradesh,2287.19,Beauty & Personal Care,Cash on Delivery
+ORD-5627,2023-02-22,Rajesh Kumar,West Bengal,3240.73,Beauty & Personal Care,Cash on Delivery
+ORD-5628,2023-06-02,Priya Sharma,Telangana,74301.66,Electronics,Debit Card
+ORD-5629,2023-11-24,Anjali Verma,Uttar Pradesh,1886.6679999999997,Grocery,Debit Card
+ORD-5630,2023-09-22,Sneha Gupta,Maharashtra,3472.39,Beauty & Personal Care,Net Banking
+ORD-5631,2023-12-15,Amit Patel,Maharashtra,2334.388,Home & Kitchen,Debit Card
+ORD-5632,2023-08-03,Sandeep Reddy,Gujarat,57484.14,Electronics,Cash on Delivery
+ORD-5633,2023-10-20,Sneha Gupta,West Bengal,7908.655999999999,Fashion,Cash on Delivery
+ORD-5634,2023-09-01,Anjali Verma,Uttar Pradesh,2677.38,Fashion,Cash on Delivery
+ORD-5635,2023-02-19,Kavita Iyer,Tamil Nadu,3933.13,Grocery,Cash on Delivery
+ORD-5636,2023-04-04,Anjali Verma,Karnataka,2951.63,Fashion,Debit Card
+ORD-5637,2023-06-07,Sandeep Reddy,West Bengal,3135.07,Grocery,Debit Card
+ORD-5638,2023-08-26,Priya Sharma,Telangana,49818.79,Electronics,Cash on Delivery
+ORD-5639,2023-11-14,Priya Sharma,Telangana,3190.32,Fashion,Cash on Delivery
+ORD-5640,2023-12-15,Sandeep Reddy,Uttar Pradesh,6186.347999999999,Home & Kitchen,UPI
+ORD-5641,2023-03-19,Amit Patel,Delhi,4942.36,Grocery,Net Banking
+ORD-5642,2023-08-23,Amit Patel,West Bengal,4669.28,Fashion,UPI
+ORD-5643,2023-11-20,Amit Patel,West Bengal,58972.466,Electronics,UPI
+ORD-5644,2023-04-18,Amit Patel,Tamil Nadu,1082.33,Home & Kitchen,UPI
+ORD-5645,2023-08-11,Sandeep Reddy,Gujarat,2224.92,Home & Kitchen,Net Banking
+ORD-5646,2023-01-20,Arjun Nair,Delhi,4514.03,Grocery,UPI
+ORD-5647,2023-09-29,Sneha Gupta,Maharashtra,28575.94,Electronics,Credit Card
+ORD-5648,2023-06-26,Vikram Singh,Tamil Nadu,45200.19,Electronics,Net Banking
+ORD-5649,2023-06-06,Amit Patel,Karnataka,71907.8,Electronics,Debit Card
+ORD-5650,2023-08-22,Arjun Nair,West Bengal,2042.3,Home & Kitchen,Credit Card
+ORD-5651,2023-09-08,Anjali Verma,Delhi,1624.31,Fashion,Net Banking
+ORD-5652,2023-04-25,Amit Patel,Delhi,45278.01,Electronics,Cash on Delivery
+ORD-5653,2023-03-05,Anjali Verma,Maharashtra,3970.62,Home & Kitchen,Debit Card
+ORD-5654,2023-11-16,Rajesh Kumar,Maharashtra,25051.739999999998,Electronics,UPI
+ORD-5655,2023-03-01,Sandeep Reddy,Telangana,2962.77,Home & Kitchen,UPI
+ORD-5656,2023-08-31,Amit Patel,Delhi,40252.29,Electronics,Debit Card
+ORD-5657,2023-02-21,Arjun Nair,Uttar Pradesh,3653.27,Beauty & Personal Care,Cash on Delivery
+ORD-5658,2023-08-03,Priya Sharma,Karnataka,4031.42,Grocery,UPI
+ORD-5659,2023-09-12,Sneha Gupta,Delhi,4879.04,Grocery,Cash on Delivery
+ORD-5660,2023-07-03,Sandeep Reddy,Uttar Pradesh,5062.9,Fashion,UPI
+ORD-5661,2023-04-17,Kavita Iyer,West Bengal,1582.87,Fashion,UPI
+ORD-5662,2023-02-15,Priya Sharma,Telangana,6566.92,Fashion,UPI
+ORD-5663,2023-02-08,Priya Sharma,Uttar Pradesh,7926.33,Fashion,Net Banking
+ORD-5664,2023-06-01,Vikram Singh,Telangana,63790.7,Electronics,UPI
+ORD-5665,2023-01-21,Vikram Singh,West Bengal,3823.43,Grocery,Net Banking
+ORD-5666,2023-02-18,Rajesh Kumar,Maharashtra,3636.3,Fashion,Credit Card
+ORD-5667,2023-08-13,Deepa Lakshmi,Uttar Pradesh,63897.86,Electronics,Debit Card
+ORD-5668,2023-04-04,Priya Sharma,Gujarat,1723.25,Home & Kitchen,Net Banking
+ORD-5669,2023-07-17,Kavita Iyer,Gujarat,2361.33,Fashion,UPI
+ORD-5670,2023-01-31,Amit Patel,Karnataka,2672.04,Home & Kitchen,Cash on Delivery
+ORD-5671,2023-10-19,Kavita Iyer,Tamil Nadu,5608.735999999999,Beauty & Personal Care,Net Banking
+ORD-5672,2023-11-10,Rajesh Kumar,Tamil Nadu,1411.508,Home & Kitchen,Net Banking
+ORD-5673,2023-07-30,Kavita Iyer,Maharashtra,54298.41,Electronics,Debit Card
+ORD-5674,2023-01-07,Arjun Nair,Delhi,2853.96,Grocery,Cash on Delivery
+ORD-5675,2023-12-25,Deepa Lakshmi,Karnataka,3736.1519999999996,Home & Kitchen,Credit Card
+ORD-5676,2023-12-06,Sandeep Reddy,Tamil Nadu,1043.77,Beauty & Personal Care,Cash on Delivery
+ORD-5677,2023-11-26,Amit Patel,Telangana,1171.646,Home & Kitchen,Credit Card
+ORD-5678,2023-09-09,Anjali Verma,Delhi,726.58,Grocery,Debit Card
+ORD-5679,2023-04-25,Arjun Nair,Gujarat,854.74,Home & Kitchen,Credit Card
+ORD-5680,2023-08-16,Deepa Lakshmi,Telangana,41824.09,Electronics,Net Banking
+ORD-5681,2023-03-02,Kavita Iyer,Maharashtra,39740.31,Electronics,Net Banking
+ORD-5682,2023-10-13,Arjun Nair,Maharashtra,101906.378,Electronics,Cash on Delivery
+ORD-5683,2023-11-23,Vikram Singh,Delhi,2989.0559999999996,Home & Kitchen,Debit Card
+ORD-5684,2023-01-28,Sneha Gupta,Telangana,3953.37,Grocery,Cash on Delivery
+ORD-5685,2023-11-04,Kavita Iyer,West Bengal,1313.858,Home & Kitchen,UPI
+ORD-5686,2023-12-04,Sneha Gupta,Maharashtra,5928.271999999999,Grocery,Debit Card
+ORD-5687,2023-05-30,Arjun Nair,West Bengal,68812.63,Electronics,UPI
+ORD-5688,2023-09-10,Amit Patel,Gujarat,51651.11,Electronics,Debit Card
+ORD-5689,2023-04-07,Priya Sharma,Gujarat,6859.6,Fashion,Net Banking
+ORD-5690,2023-04-08,Anjali Verma,Karnataka,4669.82,Home & Kitchen,UPI
+ORD-5691,2023-12-11,Deepa Lakshmi,Karnataka,4848.284,Home & Kitchen,Net Banking
+ORD-5692,2023-09-16,Amit Patel,Telangana,59172.84,Electronics,Cash on Delivery
+ORD-5693,2023-10-11,Sandeep Reddy,Telangana,5058.451999999999,Beauty & Personal Care,Credit Card
+ORD-5694,2023-03-30,Amit Patel,Karnataka,3227.72,Home & Kitchen,Cash on Delivery
+ORD-5695,2023-06-14,Arjun Nair,Gujarat,4621.6,Home & Kitchen,Cash on Delivery
+ORD-5696,2023-05-08,Vikram Singh,Gujarat,2537.81,Grocery,Debit Card
+ORD-5697,2023-03-10,Amit Patel,Gujarat,1845.11,Beauty & Personal Care,Cash on Delivery
+ORD-5698,2023-12-26,Arjun Nair,West Bengal,1965.6,Beauty & Personal Care,Credit Card
+ORD-5699,2023-11-16,Vikram Singh,West Bengal,6685.434,Fashion,Credit Card
+ORD-5700,2023-12-22,Anjali Verma,Karnataka,3726.3239999999996,Grocery,Cash on Delivery
+ORD-5701,2023-10-20,Sandeep Reddy,Uttar Pradesh,3993.192,Home & Kitchen,UPI
+ORD-5702,2023-01-13,Sandeep Reddy,Tamil Nadu,26994.15,Electronics,UPI
+ORD-5703,2023-03-24,Vikram Singh,Uttar Pradesh,5988.87,Fashion,UPI
+ORD-5704,2023-06-01,Sneha Gupta,Maharashtra,961.16,Grocery,Net Banking
+ORD-5705,2023-12-12,Arjun Nair,Delhi,2196.852,Beauty & Personal Care,Net Banking
+ORD-5706,2023-12-23,Vikram Singh,Maharashtra,3324.37,Home & Kitchen,Net Banking
+ORD-5707,2023-12-17,Anjali Verma,Maharashtra,38059.322,Electronics,Debit Card
+ORD-5708,2023-08-15,Sneha Gupta,West Bengal,3823.03,Beauty & Personal Care,Cash on Delivery
+ORD-5709,2023-04-11,Sneha Gupta,Uttar Pradesh,4925.54,Home & Kitchen,Credit Card
+ORD-5710,2023-02-08,Amit Patel,Tamil Nadu,2197.39,Beauty & Personal Care,UPI
+ORD-5711,2023-08-08,Vikram Singh,Uttar Pradesh,5295.91,Fashion,Credit Card
+ORD-5712,2023-05-11,Rajesh Kumar,West Bengal,679.73,Home & Kitchen,Credit Card
+ORD-5713,2023-06-15,Deepa Lakshmi,Maharashtra,2707.48,Beauty & Personal Care,Debit Card
+ORD-5714,2023-10-21,Arjun Nair,West Bengal,65133.17999999999,Electronics,Debit Card
+ORD-5715,2023-04-05,Arjun Nair,Karnataka,2371.69,Beauty & Personal Care,Credit Card
+ORD-5716,2023-10-02,Sandeep Reddy,Karnataka,6265.406,Grocery,Credit Card
+ORD-5717,2023-12-06,Anjali Verma,West Bengal,2076.2,Grocery,Debit Card
+ORD-5718,2023-11-13,Arjun Nair,Telangana,1422.75,Beauty & Personal Care,UPI
+ORD-5719,2023-06-27,Kavita Iyer,Delhi,1597.22,Beauty & Personal Care,Cash on Delivery
+ORD-5720,2023-01-21,Anjali Verma,Gujarat,30395.43,Electronics,Net Banking
+ORD-5721,2023-05-25,Rajesh Kumar,West Bengal,2505.01,Beauty & Personal Care,Cash on Delivery
+ORD-5722,2023-01-23,Vikram Singh,Delhi,870.55,Grocery,Cash on Delivery
+ORD-5723,2023-02-19,Amit Patel,Maharashtra,55220.11,Electronics,Credit Card
+ORD-5724,2023-04-20,Sandeep Reddy,Karnataka,6886.87,Fashion,Cash on Delivery
+ORD-5725,2023-08-11,Priya Sharma,Tamil Nadu,58012.1,Electronics,Net Banking
+ORD-5726,2023-01-20,Priya Sharma,Karnataka,62652.89,Electronics,Credit Card
+ORD-5727,2023-10-13,Priya Sharma,Delhi,3144.61,Grocery,Net Banking
+ORD-5728,2023-11-19,Sandeep Reddy,Gujarat,3153.864,Grocery,UPI
+ORD-5729,2023-03-02,Arjun Nair,Maharashtra,3901.82,Beauty & Personal Care,UPI
+ORD-5730,2023-10-27,Rajesh Kumar,Karnataka,1368.654,Grocery,Cash on Delivery
+ORD-5731,2023-12-18,Vikram Singh,Karnataka,3102.904,Grocery,Net Banking
+ORD-5732,2023-12-05,Rajesh Kumar,Telangana,4100.782,Fashion,Cash on Delivery
+ORD-5733,2023-07-20,Arjun Nair,Uttar Pradesh,5902.38,Fashion,Debit Card
+ORD-5734,2023-11-28,Anjali Verma,Maharashtra,1590.652,Beauty & Personal Care,Cash on Delivery
+ORD-5735,2023-01-22,Rajesh Kumar,Gujarat,4761.41,Beauty & Personal Care,Cash on Delivery
+ORD-5736,2023-06-06,Sneha Gupta,West Bengal,7386.58,Fashion,Net Banking
+ORD-5737,2023-09-20,Amit Patel,Tamil Nadu,5509.75,Fashion,Credit Card
+ORD-5738,2023-05-10,Sneha Gupta,Karnataka,7039.63,Fashion,Cash on Delivery
+ORD-5739,2023-10-09,Kavita Iyer,Karnataka,2279.3259999999996,Grocery,UPI
+ORD-5740,2023-04-12,Deepa Lakshmi,Telangana,1076.97,Grocery,Debit Card
+ORD-5741,2023-12-02,Sneha Gupta,Karnataka,1139.7959999999998,Grocery,Cash on Delivery
+ORD-5742,2023-04-10,Anjali Verma,Telangana,3273.54,Home & Kitchen,Debit Card
+ORD-5743,2023-06-06,Deepa Lakshmi,Tamil Nadu,2140.22,Beauty & Personal Care,Cash on Delivery
+ORD-5744,2023-06-11,Sandeep Reddy,Tamil Nadu,29770.51,Electronics,Debit Card
+ORD-5745,2023-04-24,Sandeep Reddy,Uttar Pradesh,3558.11,Grocery,Credit Card
+ORD-5746,2023-06-19,Kavita Iyer,Telangana,3986.45,Home & Kitchen,Debit Card
+ORD-5747,2023-09-07,Arjun Nair,Karnataka,2032.83,Fashion,Cash on Delivery
+ORD-5748,2023-05-24,Amit Patel,Delhi,3773.41,Grocery,UPI
+ORD-5749,2023-01-10,Arjun Nair,Maharashtra,2323.11,Beauty & Personal Care,Cash on Delivery
+ORD-5750,2023-10-30,Sneha Gupta,Maharashtra,4123.854,Beauty & Personal Care,Debit Card
+ORD-5751,2023-10-04,Kavita Iyer,Tamil Nadu,2106.832,Grocery,Net Banking
+ORD-5752,2023-10-29,Vikram Singh,Tamil Nadu,3915.5899999999997,Home & Kitchen,Cash on Delivery
+ORD-5753,2023-07-23,Anjali Verma,Maharashtra,5947.05,Fashion,Cash on Delivery
+ORD-5754,2023-09-21,Amit Patel,Telangana,5181.32,Fashion,Credit Card
+ORD-5755,2023-10-17,Amit Patel,Telangana,2078.566,Grocery,UPI
+ORD-5756,2023-09-07,Sneha Gupta,Karnataka,1553.08,Grocery,Debit Card
+ORD-5757,2023-12-09,Sneha Gupta,West Bengal,6482.784000000001,Home & Kitchen,Net Banking
+ORD-5758,2023-01-24,Rajesh Kumar,West Bengal,53014.02,Electronics,Cash on Delivery
+ORD-5759,2023-05-21,Vikram Singh,Tamil Nadu,2143.84,Home & Kitchen,Net Banking
+ORD-5760,2023-12-01,Priya Sharma,Uttar Pradesh,3953.138,Home & Kitchen,Credit Card
+ORD-5761,2023-06-30,Anjali Verma,Telangana,529.69,Home & Kitchen,Cash on Delivery
+ORD-5762,2023-03-13,Kavita Iyer,Tamil Nadu,4844.52,Fashion,UPI
+ORD-5763,2023-05-24,Sneha Gupta,Tamil Nadu,3854.45,Fashion,Credit Card
+ORD-5764,2023-03-02,Sneha Gupta,Gujarat,2666.82,Grocery,UPI
+ORD-5765,2023-09-03,Kavita Iyer,Delhi,3412.67,Beauty & Personal Care,Credit Card
+ORD-5766,2023-07-30,Rajesh Kumar,Delhi,49409.19,Electronics,Credit Card
+ORD-5767,2023-03-24,Amit Patel,Maharashtra,751.6,Beauty & Personal Care,Credit Card
+ORD-5768,2023-05-13,Amit Patel,Gujarat,3369.3,Beauty & Personal Care,Cash on Delivery
+ORD-5769,2023-12-05,Vikram Singh,Karnataka,7619.388,Fashion,Net Banking
+ORD-5770,2023-08-30,Kavita Iyer,Tamil Nadu,5405.45,Fashion,Net Banking
+ORD-5771,2023-10-26,Amit Patel,Uttar Pradesh,10493.405999999999,Fashion,Debit Card
+ORD-5772,2023-11-02,Deepa Lakshmi,Karnataka,5607.7,Fashion,Net Banking
+ORD-5773,2023-02-25,Rajesh Kumar,Delhi,3579.66,Beauty & Personal Care,Cash on Delivery
+ORD-5774,2023-03-18,Deepa Lakshmi,Karnataka,7360.45,Fashion,Net Banking
+ORD-5775,2023-11-04,Rajesh Kumar,Karnataka,76388.984,Electronics,Net Banking
+ORD-5776,2023-11-05,Arjun Nair,Maharashtra,3350.312,Home & Kitchen,Cash on Delivery
+ORD-5777,2023-01-23,Arjun Nair,Gujarat,6632.11,Fashion,Net Banking
+ORD-5778,2023-07-15,Anjali Verma,Karnataka,1645.33,Home & Kitchen,Credit Card
+ORD-5779,2023-04-30,Priya Sharma,Uttar Pradesh,2338.91,Beauty & Personal Care,Cash on Delivery
+ORD-5780,2023-04-07,Rajesh Kumar,Maharashtra,1030.23,Beauty & Personal Care,Cash on Delivery
+ORD-5781,2023-01-04,Sandeep Reddy,Delhi,2130.21,Grocery,Net Banking
+ORD-5782,2023-03-21,Sandeep Reddy,Uttar Pradesh,2406.03,Grocery,Cash on Delivery
+ORD-5783,2023-07-07,Deepa Lakshmi,Uttar Pradesh,2359.53,Home & Kitchen,Credit Card
+ORD-5784,2023-10-13,Kavita Iyer,Tamil Nadu,4195.94,Grocery,Cash on Delivery
+ORD-5785,2023-05-10,Vikram Singh,West Bengal,4347.5,Home & Kitchen,Credit Card
+ORD-5786,2023-12-04,Priya Sharma,Delhi,1331.75,Home & Kitchen,Credit Card
+ORD-5787,2023-09-18,Sandeep Reddy,West Bengal,3636.76,Beauty & Personal Care,Cash on Delivery
+ORD-5788,2023-12-28,Rajesh Kumar,Tamil Nadu,5767.523999999999,Home & Kitchen,UPI
+ORD-5789,2023-03-16,Kavita Iyer,Gujarat,30785.52,Electronics,UPI
+ORD-5790,2023-07-09,Priya Sharma,Maharashtra,3262.85,Home & Kitchen,Net Banking
+ORD-5791,2023-09-24,Vikram Singh,Maharashtra,4353.32,Fashion,Net Banking
+ORD-5792,2023-04-14,Arjun Nair,Uttar Pradesh,6595.74,Fashion,UPI
+ORD-5793,2023-09-19,Arjun Nair,Delhi,3533.11,Beauty & Personal Care,Credit Card
+ORD-5794,2023-07-04,Sneha Gupta,Maharashtra,7979.31,Fashion,UPI
+ORD-5795,2023-07-24,Anjali Verma,Gujarat,1401.4,Home & Kitchen,Cash on Delivery
+ORD-5796,2023-01-08,Priya Sharma,Karnataka,3767.62,Beauty & Personal Care,Debit Card
+ORD-5797,2023-10-14,Deepa Lakshmi,West Bengal,2125.662,Grocery,Debit Card
+ORD-5798,2023-04-10,Kavita Iyer,Gujarat,1674.98,Beauty & Personal Care,UPI
+ORD-5799,2023-07-28,Arjun Nair,Karnataka,2764.26,Beauty & Personal Care,UPI
+ORD-5800,2023-06-24,Priya Sharma,Uttar Pradesh,1625.64,Beauty & Personal Care,Cash on Delivery
+ORD-5801,2023-08-15,Sandeep Reddy,Telangana,7748.05,Fashion,Debit Card
+ORD-5802,2023-08-23,Kavita Iyer,Maharashtra,1660.19,Home & Kitchen,UPI
+ORD-5803,2023-07-15,Sneha Gupta,Delhi,4799.51,Grocery,Net Banking
+ORD-5804,2023-09-22,Arjun Nair,Maharashtra,1792.8,Grocery,Credit Card
+ORD-5805,2023-07-24,Anjali Verma,Karnataka,2644.5,Beauty & Personal Care,Credit Card
+ORD-5806,2023-07-01,Sneha Gupta,Uttar Pradesh,4743.5,Fashion,Credit Card
+ORD-5807,2023-04-13,Sneha Gupta,Delhi,1531.43,Grocery,Credit Card
+ORD-5808,2023-05-08,Deepa Lakshmi,West Bengal,2279.21,Fashion,UPI
+ORD-5809,2023-02-10,Kavita Iyer,Maharashtra,4316.05,Beauty & Personal Care,UPI
+ORD-5810,2023-07-10,Deepa Lakshmi,West Bengal,4409.46,Home & Kitchen,Cash on Delivery
+ORD-5811,2023-09-09,Amit Patel,Uttar Pradesh,3875.76,Home & Kitchen,Credit Card
+ORD-5812,2023-03-07,Rajesh Kumar,Gujarat,646.53,Home & Kitchen,Cash on Delivery
+ORD-5813,2023-06-27,Sandeep Reddy,Tamil Nadu,3642.1,Home & Kitchen,UPI
+ORD-5814,2023-08-24,Anjali Verma,Maharashtra,37765.68,Electronics,Credit Card
+ORD-5815,2023-02-21,Anjali Verma,West Bengal,1342.19,Beauty & Personal Care,Debit Card
+ORD-5816,2023-05-15,Sneha Gupta,Uttar Pradesh,2043.93,Home & Kitchen,Cash on Delivery
+ORD-5817,2023-04-05,Kavita Iyer,Gujarat,6054.63,Fashion,Net Banking
+ORD-5818,2023-07-10,Anjali Verma,Gujarat,1309.5,Grocery,Net Banking
+ORD-5819,2023-03-09,Deepa Lakshmi,Delhi,63245.25,Electronics,Debit Card
+ORD-5820,2023-10-12,Sandeep Reddy,Gujarat,9380.336,Fashion,Credit Card
+ORD-5821,2023-03-18,Kavita Iyer,Maharashtra,4747.39,Fashion,Net Banking
+ORD-5822,2023-11-19,Arjun Nair,West Bengal,2281.132,Home & Kitchen,Debit Card
+ORD-5823,2023-10-18,Rajesh Kumar,Gujarat,26043.052,Electronics,Credit Card
+ORD-5824,2023-05-11,Kavita Iyer,Karnataka,1668.96,Home & Kitchen,Debit Card
+ORD-5825,2023-07-04,Arjun Nair,Uttar Pradesh,2352.92,Grocery,UPI
+ORD-5826,2023-06-29,Deepa Lakshmi,Delhi,3424.39,Beauty & Personal Care,Cash on Delivery
+ORD-5827,2023-10-03,Amit Patel,Uttar Pradesh,4941.1179999999995,Grocery,Debit Card
+ORD-5828,2023-09-07,Kavita Iyer,Karnataka,1789.36,Home & Kitchen,Cash on Delivery
+ORD-5829,2023-11-20,Amit Patel,Tamil Nadu,4677.022,Grocery,Net Banking
+ORD-5830,2023-10-20,Sandeep Reddy,Karnataka,49864.541999999994,Electronics,Credit Card
+ORD-5831,2023-06-10,Anjali Verma,Uttar Pradesh,3400.9,Grocery,Cash on Delivery
+ORD-5832,2023-05-19,Kavita Iyer,West Bengal,4844.87,Beauty & Personal Care,Cash on Delivery
+ORD-5833,2023-07-31,Amit Patel,Tamil Nadu,58666.34,Electronics,Credit Card
+ORD-5834,2023-12-05,Vikram Singh,Karnataka,5713.12,Fashion,Credit Card
+ORD-5835,2023-02-18,Priya Sharma,Telangana,618.64,Beauty & Personal Care,UPI
+ORD-5836,2023-07-23,Arjun Nair,Karnataka,52086.13,Electronics,Debit Card
+ORD-5837,2023-02-13,Sandeep Reddy,Uttar Pradesh,6294.36,Fashion,Credit Card
+ORD-5838,2023-08-15,Amit Patel,Tamil Nadu,628.57,Beauty & Personal Care,Credit Card
+ORD-5839,2023-12-06,Anjali Verma,West Bengal,6842.388,Home & Kitchen,Net Banking
+ORD-5840,2023-10-04,Vikram Singh,Telangana,3711.0359999999996,Fashion,Cash on Delivery
+ORD-5841,2023-11-02,Kavita Iyer,Gujarat,2650.872,Beauty & Personal Care,Cash on Delivery
+ORD-5842,2023-06-27,Kavita Iyer,Delhi,33472.09,Electronics,Net Banking
+ORD-5843,2023-07-31,Vikram Singh,Tamil Nadu,500.42,Grocery,UPI
+ORD-5844,2023-03-11,Anjali Verma,Uttar Pradesh,537.43,Home & Kitchen,Cash on Delivery
+ORD-5845,2023-09-09,Kavita Iyer,Uttar Pradesh,62877.89,Electronics,Net Banking
+ORD-5846,2023-11-02,Sneha Gupta,Maharashtra,1887.9979999999998,Beauty & Personal Care,Debit Card
+ORD-5847,2023-10-15,Sandeep Reddy,Gujarat,8605.94,Fashion,Credit Card
+ORD-5848,2023-11-27,Sandeep Reddy,Gujarat,2820.8039999999996,Fashion,Debit Card
+ORD-5849,2023-11-17,Sneha Gupta,Uttar Pradesh,5795.496,Grocery,Cash on Delivery
+ORD-5850,2023-07-31,Sneha Gupta,Karnataka,3382.37,Fashion,Credit Card
+ORD-5851,2023-11-23,Kavita Iyer,Telangana,3799.5719999999997,Grocery,Cash on Delivery
+ORD-5852,2023-06-14,Rajesh Kumar,Tamil Nadu,16327.85,Electronics,Cash on Delivery
+ORD-5853,2023-02-22,Vikram Singh,Uttar Pradesh,6226.2,Fashion,Net Banking
+ORD-5854,2023-04-30,Priya Sharma,Tamil Nadu,28031.29,Electronics,Net Banking
+ORD-5855,2023-08-04,Vikram Singh,Telangana,3636.21,Grocery,Net Banking
+ORD-5856,2023-01-17,Anjali Verma,Karnataka,3232.27,Fashion,UPI
+ORD-5857,2023-07-20,Priya Sharma,Telangana,7322.04,Fashion,Credit Card
+ORD-5858,2023-05-09,Sandeep Reddy,Maharashtra,38087.87,Electronics,Credit Card
+ORD-5859,2023-08-15,Sneha Gupta,Maharashtra,6279.6,Fashion,Net Banking
+ORD-5860,2023-02-18,Arjun Nair,Delhi,3566.49,Home & Kitchen,Net Banking
+ORD-5861,2023-06-09,Anjali Verma,Tamil Nadu,46255.58,Electronics,Cash on Delivery
+ORD-5862,2023-05-10,Kavita Iyer,Uttar Pradesh,7268.88,Fashion,Debit Card
+ORD-5863,2023-12-08,Sneha Gupta,Karnataka,5053.076,Fashion,Net Banking
+ORD-5864,2023-03-27,Vikram Singh,Karnataka,540.18,Home & Kitchen,Credit Card
+ORD-5865,2023-01-22,Deepa Lakshmi,Telangana,2171.29,Beauty & Personal Care,Credit Card
+ORD-5866,2023-02-15,Sneha Gupta,Tamil Nadu,3586.75,Home & Kitchen,UPI
+ORD-5867,2023-06-23,Rajesh Kumar,Maharashtra,3655.98,Grocery,Credit Card
+ORD-5868,2023-02-24,Amit Patel,Telangana,7880.89,Fashion,Debit Card
+ORD-5869,2023-11-27,Anjali Verma,Telangana,8372.168,Fashion,UPI
+ORD-5870,2023-07-03,Amit Patel,Uttar Pradesh,57397.56,Electronics,Net Banking
+ORD-5871,2023-10-14,Vikram Singh,Telangana,3798.298,Fashion,Cash on Delivery
+ORD-5872,2023-06-28,Anjali Verma,Telangana,4615.13,Grocery,Cash on Delivery
+ORD-5873,2023-10-11,Amit Patel,Karnataka,3531.122,Beauty & Personal Care,Credit Card
+ORD-5874,2023-05-15,Arjun Nair,West Bengal,3991.63,Home & Kitchen,UPI
+ORD-5875,2023-09-17,Sandeep Reddy,Tamil Nadu,66409.76,Electronics,Cash on Delivery
+ORD-5876,2023-11-14,Sneha Gupta,West Bengal,89800.172,Electronics,Cash on Delivery
+ORD-5877,2023-04-08,Arjun Nair,Telangana,3258.68,Beauty & Personal Care,Credit Card
+ORD-5878,2023-06-15,Sandeep Reddy,West Bengal,46392.03,Electronics,UPI
+ORD-5879,2023-02-04,Rajesh Kumar,Tamil Nadu,2813.51,Fashion,UPI
+ORD-5880,2023-09-06,Sneha Gupta,Karnataka,53505.1,Electronics,Cash on Delivery
+ORD-5881,2023-07-18,Kavita Iyer,Uttar Pradesh,28243.37,Electronics,Debit Card
+ORD-5882,2023-02-06,Rajesh Kumar,Delhi,2606.27,Home & Kitchen,UPI
+ORD-5883,2023-11-24,Rajesh Kumar,West Bengal,5878.767999999999,Beauty & Personal Care,Net Banking
+ORD-5884,2023-12-29,Rajesh Kumar,Uttar Pradesh,5326.089999999999,Beauty & Personal Care,UPI
+ORD-5885,2023-06-05,Priya Sharma,Delhi,955.51,Beauty & Personal Care,UPI
+ORD-5886,2023-04-29,Arjun Nair,Gujarat,4920.25,Fashion,Credit Card
+ORD-5887,2023-05-08,Deepa Lakshmi,Tamil Nadu,2368.33,Beauty & Personal Care,Cash on Delivery
+ORD-5888,2023-02-24,Deepa Lakshmi,West Bengal,4472.71,Home & Kitchen,Net Banking
+ORD-5889,2023-03-27,Amit Patel,Gujarat,3458.89,Beauty & Personal Care,Debit Card
+ORD-5890,2023-10-01,Deepa Lakshmi,Telangana,4165.518,Grocery,Debit Card
+ORD-5891,2023-06-16,Anjali Verma,Gujarat,3237.86,Home & Kitchen,Debit Card
+ORD-5892,2023-10-16,Arjun Nair,Delhi,6534.723999999999,Home & Kitchen,Cash on Delivery
+ORD-5893,2023-05-11,Anjali Verma,Telangana,500.88,Home & Kitchen,Net Banking
+ORD-5894,2023-01-18,Vikram Singh,Maharashtra,4970.35,Beauty & Personal Care,Credit Card
+ORD-5895,2023-06-04,Rajesh Kumar,Uttar Pradesh,7062.18,Fashion,Credit Card
+ORD-5896,2023-01-12,Vikram Singh,Tamil Nadu,42622.19,Electronics,UPI
+ORD-5897,2023-03-21,Amit Patel,Uttar Pradesh,1624.36,Grocery,Cash on Delivery
+ORD-5898,2023-05-12,Vikram Singh,Karnataka,3060.79,Beauty & Personal Care,Net Banking
+ORD-5899,2023-04-22,Priya Sharma,West Bengal,2697.24,Home & Kitchen,Credit Card
+ORD-5900,2023-12-20,Deepa Lakshmi,Karnataka,935.4379999999999,Beauty & Personal Care,Debit Card
+ORD-5901,2023-10-23,Sandeep Reddy,Karnataka,50226.13399999999,Electronics,Debit Card
+ORD-5902,2023-08-11,Sandeep Reddy,Karnataka,7536.25,Fashion,Cash on Delivery
+ORD-5903,2023-11-21,Sandeep Reddy,Maharashtra,959.448,Grocery,Cash on Delivery
+ORD-5904,2023-10-04,Deepa Lakshmi,Tamil Nadu,5095.9439999999995,Grocery,Cash on Delivery
+ORD-5905,2023-03-20,Rajesh Kumar,Gujarat,3088.65,Home & Kitchen,Cash on Delivery
+ORD-5906,2023-02-16,Sneha Gupta,Gujarat,1166.06,Grocery,Net Banking
+ORD-5907,2023-06-22,Priya Sharma,Telangana,2966.69,Beauty & Personal Care,UPI
+ORD-5908,2023-05-15,Priya Sharma,Gujarat,3982.21,Beauty & Personal Care,Net Banking
+ORD-5909,2023-03-08,Amit Patel,Telangana,2695.37,Beauty & Personal Care,Credit Card
+ORD-5910,2023-11-30,Deepa Lakshmi,Delhi,6981.59,Beauty & Personal Care,Cash on Delivery
+ORD-5911,2023-09-26,Sneha Gupta,Delhi,61606.31,Electronics,Debit Card
+ORD-5912,2023-06-15,Deepa Lakshmi,Karnataka,40412.44,Electronics,Net Banking
+ORD-5913,2023-06-28,Sneha Gupta,West Bengal,3449.34,Grocery,Cash on Delivery
+ORD-5914,2023-06-06,Amit Patel,West Bengal,3304.32,Beauty & Personal Care,Net Banking
+ORD-5915,2023-08-14,Rajesh Kumar,Delhi,2513.94,Fashion,Debit Card
+ORD-5916,2023-02-13,Priya Sharma,Maharashtra,7523.74,Fashion,Cash on Delivery
+ORD-5917,2023-05-28,Rajesh Kumar,West Bengal,42003.69,Electronics,Debit Card
+ORD-5918,2023-01-12,Anjali Verma,Delhi,1417.11,Beauty & Personal Care,Credit Card
+ORD-5919,2023-09-25,Vikram Singh,Telangana,3627.82,Beauty & Personal Care,Credit Card
+ORD-5920,2023-12-09,Rajesh Kumar,Gujarat,973.9379999999999,Beauty & Personal Care,Cash on Delivery
+ORD-5921,2023-03-29,Rajesh Kumar,Uttar Pradesh,3263.33,Fashion,Cash on Delivery
+ORD-5922,2023-08-27,Rajesh Kumar,Karnataka,3483.42,Home & Kitchen,Debit Card
+ORD-5923,2023-12-04,Anjali Verma,Karnataka,93862.482,Electronics,Debit Card
+ORD-5924,2023-11-29,Sandeep Reddy,Delhi,6852.65,Home & Kitchen,Cash on Delivery
+ORD-5925,2023-02-20,Anjali Verma,Telangana,896.09,Beauty & Personal Care,Cash on Delivery
+ORD-5926,2023-04-12,Arjun Nair,Telangana,678.89,Beauty & Personal Care,UPI
+ORD-5927,2023-09-29,Vikram Singh,West Bengal,3849.76,Home & Kitchen,Net Banking
+ORD-5928,2023-01-10,Anjali Verma,West Bengal,1562.92,Grocery,Debit Card
+ORD-5929,2023-09-14,Vikram Singh,Maharashtra,4506.81,Grocery,Net Banking
+ORD-5930,2023-01-16,Arjun Nair,Uttar Pradesh,3721.61,Fashion,Credit Card
+ORD-5931,2023-07-21,Amit Patel,Karnataka,4822.73,Home & Kitchen,Cash on Delivery
+ORD-5932,2023-11-10,Sneha Gupta,Gujarat,3490.0179999999996,Fashion,Cash on Delivery
+ORD-5933,2023-06-09,Deepa Lakshmi,West Bengal,1092.97,Home & Kitchen,Cash on Delivery
+ORD-5934,2023-12-01,Amit Patel,Delhi,8365.644,Fashion,Debit Card
+ORD-5935,2023-09-26,Amit Patel,Gujarat,7461.23,Fashion,Cash on Delivery
+ORD-5936,2023-06-12,Priya Sharma,Karnataka,6956.9,Fashion,Debit Card
+ORD-5937,2023-03-16,Rajesh Kumar,West Bengal,1865.07,Home & Kitchen,Net Banking
+ORD-5938,2023-11-23,Vikram Singh,Tamil Nadu,3297.07,Fashion,UPI
+ORD-5939,2023-01-14,Deepa Lakshmi,Uttar Pradesh,3255.63,Beauty & Personal Care,Cash on Delivery
+ORD-5940,2023-11-02,Sneha Gupta,Delhi,27675.941999999995,Electronics,Debit Card
+ORD-5941,2023-09-02,Amit Patel,Telangana,4334.58,Grocery,Credit Card
+ORD-5942,2023-09-09,Kavita Iyer,Tamil Nadu,2970.77,Fashion,Credit Card
+ORD-5943,2023-07-29,Rajesh Kumar,Uttar Pradesh,3840.65,Home & Kitchen,Credit Card
+ORD-5944,2023-04-14,Sneha Gupta,Karnataka,7136.34,Fashion,Net Banking
+ORD-5945,2023-09-08,Anjali Verma,Telangana,4131.63,Fashion,Net Banking
+ORD-5946,2023-01-22,Deepa Lakshmi,Gujarat,3251.77,Grocery,Net Banking
+ORD-5947,2023-10-20,Deepa Lakshmi,Maharashtra,3545.1359999999995,Beauty & Personal Care,UPI
+ORD-5948,2023-01-22,Sneha Gupta,Gujarat,38243.87,Electronics,Cash on Delivery
+ORD-5949,2023-11-19,Rajesh Kumar,Delhi,3207.6519999999996,Grocery,Net Banking
+ORD-5950,2023-06-05,Vikram Singh,Telangana,3413.73,Fashion,Net Banking
+ORD-5951,2023-01-28,Arjun Nair,Tamil Nadu,906.98,Home & Kitchen,Net Banking
+ORD-5952,2023-09-14,Priya Sharma,Tamil Nadu,1108.88,Beauty & Personal Care,Cash on Delivery
+ORD-5953,2023-07-31,Anjali Verma,Telangana,42220.84,Electronics,Credit Card
+ORD-5954,2023-12-31,Sneha Gupta,Telangana,48222.28599999999,Electronics,Debit Card
+ORD-5955,2023-11-29,Amit Patel,Karnataka,80323.04,Electronics,UPI
+ORD-5956,2023-11-21,Anjali Verma,Karnataka,5279.302,Beauty & Personal Care,Net Banking
+ORD-5957,2023-09-19,Deepa Lakshmi,Tamil Nadu,2212.73,Home & Kitchen,Cash on Delivery
+ORD-5958,2023-03-29,Anjali Verma,Tamil Nadu,2662.63,Fashion,Credit Card
+ORD-5959,2023-12-31,Rajesh Kumar,Gujarat,5300.022,Grocery,Debit Card
+ORD-5960,2023-08-17,Vikram Singh,Tamil Nadu,72626.03,Electronics,Credit Card
+ORD-5961,2023-01-02,Deepa Lakshmi,Uttar Pradesh,44857.66,Electronics,Net Banking
+ORD-5962,2023-09-13,Arjun Nair,Maharashtra,1570.45,Beauty & Personal Care,Net Banking
+ORD-5963,2023-10-29,Kavita Iyer,Telangana,1200.248,Home & Kitchen,Net Banking
+ORD-5964,2023-11-04,Rajesh Kumar,Delhi,4604.53,Beauty & Personal Care,Debit Card
+ORD-5965,2023-10-13,Sneha Gupta,Maharashtra,2601.0879999999997,Fashion,Credit Card
+ORD-5966,2023-06-28,Rajesh Kumar,Tamil Nadu,65280.87,Electronics,Cash on Delivery
+ORD-5967,2023-06-02,Anjali Verma,Karnataka,40017.42,Electronics,UPI
+ORD-5968,2023-04-02,Amit Patel,Uttar Pradesh,3075.27,Beauty & Personal Care,Cash on Delivery
+ORD-5969,2023-10-15,Amit Patel,Telangana,6568.324,Beauty & Personal Care,Debit Card
+ORD-5970,2023-02-17,Vikram Singh,West Bengal,4191.19,Grocery,Net Banking
+ORD-5971,2023-08-07,Arjun Nair,Karnataka,1105.46,Grocery,Net Banking
+ORD-5972,2023-12-22,Vikram Singh,West Bengal,4005.2739999999994,Beauty & Personal Care,Net Banking
+ORD-5973,2023-12-23,Sneha Gupta,Maharashtra,82297.19399999999,Electronics,Cash on Delivery
+ORD-5974,2023-11-19,Arjun Nair,Karnataka,6583.514,Home & Kitchen,Cash on Delivery
+ORD-5975,2023-12-28,Vikram Singh,Gujarat,2335.8579999999997,Beauty & Personal Care,Debit Card
+ORD-5976,2023-10-22,Deepa Lakshmi,West Bengal,7219.967999999999,Fashion,Cash on Delivery
+ORD-5977,2023-09-24,Kavita Iyer,Telangana,3012.69,Fashion,Cash on Delivery
+ORD-5978,2023-05-29,Sneha Gupta,Maharashtra,42893.14,Electronics,UPI
+ORD-5979,2023-03-02,Sneha Gupta,Gujarat,2002.07,Home & Kitchen,UPI
+ORD-5980,2023-10-14,Sneha Gupta,Maharashtra,4415.1939999999995,Fashion,Debit Card
+ORD-5981,2023-02-04,Vikram Singh,Uttar Pradesh,1957.66,Beauty & Personal Care,Cash on Delivery
+ORD-5982,2023-01-04,Priya Sharma,West Bengal,3759.78,Grocery,Net Banking
+ORD-5983,2023-11-12,Rajesh Kumar,Tamil Nadu,9687.803999999998,Fashion,Debit Card
+ORD-5984,2023-12-11,Kavita Iyer,Telangana,61445.622,Electronics,Credit Card
+ORD-5985,2023-11-18,Kavita Iyer,West Bengal,6545.07,Home & Kitchen,Net Banking
+ORD-5986,2023-01-29,Arjun Nair,Uttar Pradesh,2998.3,Beauty & Personal Care,Debit Card
+ORD-5987,2023-01-10,Sneha Gupta,West Bengal,4863.26,Grocery,UPI
+ORD-5988,2023-05-24,Rajesh Kumar,West Bengal,4290.83,Home & Kitchen,Cash on Delivery
+ORD-5989,2023-10-20,Deepa Lakshmi,Gujarat,3163.2859999999996,Fashion,Cash on Delivery
+ORD-5990,2023-06-07,Anjali Verma,Maharashtra,890.59,Grocery,Net Banking
+ORD-5991,2023-05-02,Anjali Verma,Telangana,2862.95,Grocery,Credit Card
+ORD-5992,2023-03-31,Priya Sharma,West Bengal,69801.23,Electronics,Credit Card
+ORD-5993,2023-08-16,Arjun Nair,Maharashtra,1193.35,Home & Kitchen,Cash on Delivery
+ORD-5994,2023-06-24,Kavita Iyer,Uttar Pradesh,3962.67,Grocery,Credit Card
+ORD-5995,2023-02-20,Arjun Nair,Tamil Nadu,4485.89,Fashion,UPI
+ORD-5996,2023-09-25,Priya Sharma,Maharashtra,3591.74,Grocery,UPI
+ORD-5997,2023-11-01,Priya Sharma,West Bengal,1349.5439999999999,Home & Kitchen,UPI
+ORD-5998,2023-12-04,Vikram Singh,Maharashtra,4724.762,Beauty & Personal Care,Debit Card
+ORD-5999,2023-04-18,Anjali Verma,Delhi,3298.22,Fashion,Debit Card
+ORD-6000,2023-06-13,Kavita Iyer,Karnataka,1208.73,Grocery,Credit Card
+ORD-6001,2023-02-28,Rajesh Kumar,Karnataka,3777.07,Fashion,Cash on Delivery
+ORD-6002,2023-06-13,Vikram Singh,Tamil Nadu,1601.71,Grocery,Cash on Delivery
+ORD-6003,2023-02-06,Vikram Singh,West Bengal,728.27,Beauty & Personal Care,Net Banking
+ORD-6004,2023-01-15,Kavita Iyer,Maharashtra,18227.99,Electronics,Net Banking
+ORD-6005,2023-08-07,Sandeep Reddy,Tamil Nadu,3332.62,Beauty & Personal Care,Cash on Delivery
+ORD-6006,2023-12-20,Kavita Iyer,West Bengal,5849.8859999999995,Grocery,Debit Card
+ORD-6007,2023-12-10,Arjun Nair,Karnataka,1530.312,Home & Kitchen,Cash on Delivery
+ORD-6008,2023-12-24,Kavita Iyer,Karnataka,5012.21,Home & Kitchen,Debit Card
+ORD-6009,2023-12-30,Kavita Iyer,Telangana,3407.866,Fashion,Credit Card
+ORD-6010,2023-11-12,Vikram Singh,West Bengal,5107.5779999999995,Home & Kitchen,Credit Card
+ORD-6011,2023-12-07,Anjali Verma,West Bengal,890.666,Home & Kitchen,Net Banking
+ORD-6012,2023-09-01,Priya Sharma,West Bengal,4305.95,Home & Kitchen,Net Banking
+ORD-6013,2023-05-25,Anjali Verma,Tamil Nadu,2325.59,Beauty & Personal Care,UPI
+ORD-6014,2023-02-24,Anjali Verma,Karnataka,2574.39,Grocery,Cash on Delivery
+ORD-6015,2023-10-30,Sandeep Reddy,Delhi,4152.0779999999995,Beauty & Personal Care,Credit Card
+ORD-6016,2023-09-04,Sandeep Reddy,Karnataka,4162.62,Grocery,Credit Card
+ORD-6017,2023-10-30,Sandeep Reddy,Gujarat,4130.518,Beauty & Personal Care,Debit Card
+ORD-6018,2023-05-01,Amit Patel,Karnataka,1014.45,Beauty & Personal Care,Net Banking
+ORD-6019,2023-11-02,Kavita Iyer,West Bengal,5878.74,Beauty & Personal Care,UPI
+ORD-6020,2023-04-01,Vikram Singh,Gujarat,21524.68,Electronics,Cash on Delivery
+ORD-6021,2023-11-02,Sandeep Reddy,West Bengal,1270.36,Home & Kitchen,UPI
+ORD-6022,2023-03-13,Deepa Lakshmi,Maharashtra,4444.33,Fashion,Credit Card
+ORD-6023,2023-05-30,Sandeep Reddy,Telangana,5929.86,Fashion,Credit Card
+ORD-6024,2023-06-12,Vikram Singh,Uttar Pradesh,4956.3,Home & Kitchen,Debit Card
+ORD-6025,2023-10-26,Rajesh Kumar,Gujarat,2667.938,Fashion,Debit Card
+ORD-6026,2023-10-09,Rajesh Kumar,Maharashtra,1391.096,Beauty & Personal Care,Debit Card
+ORD-6027,2023-05-25,Rajesh Kumar,Delhi,2274.21,Home & Kitchen,Cash on Delivery
+ORD-6028,2023-06-12,Sandeep Reddy,Gujarat,2953.03,Home & Kitchen,Net Banking
+ORD-6029,2023-12-06,Amit Patel,Telangana,7154.335999999999,Fashion,Credit Card
+ORD-6030,2023-07-04,Sandeep Reddy,Tamil Nadu,1104.25,Grocery,Credit Card
+ORD-6031,2023-02-06,Rajesh Kumar,Tamil Nadu,4887.39,Home & Kitchen,Net Banking
+ORD-6032,2023-03-11,Priya Sharma,Tamil Nadu,4521.12,Home & Kitchen,Net Banking
+ORD-6033,2023-12-23,Deepa Lakshmi,Gujarat,3562.678,Beauty & Personal Care,Credit Card
+ORD-6034,2023-08-06,Arjun Nair,Telangana,1515.83,Home & Kitchen,Debit Card
+ORD-6035,2023-08-06,Deepa Lakshmi,Maharashtra,4310.62,Beauty & Personal Care,Net Banking
+ORD-6036,2023-05-02,Arjun Nair,Uttar Pradesh,3093.59,Home & Kitchen,Cash on Delivery
+ORD-6037,2023-01-18,Rajesh Kumar,Telangana,3111.21,Grocery,UPI
+ORD-6038,2023-12-20,Priya Sharma,Tamil Nadu,3629.0939999999996,Beauty & Personal Care,Debit Card
+ORD-6039,2023-02-10,Arjun Nair,Karnataka,5599.31,Fashion,Net Banking
+ORD-6040,2023-12-06,Priya Sharma,Uttar Pradesh,6392.581999999999,Beauty & Personal Care,UPI
+ORD-6041,2023-10-01,Rajesh Kumar,Telangana,6408.15,Home & Kitchen,Cash on Delivery
+ORD-6042,2023-10-21,Anjali Verma,Gujarat,2522.016,Grocery,Debit Card
+ORD-6043,2023-01-19,Deepa Lakshmi,Uttar Pradesh,776.38,Beauty & Personal Care,Debit Card
+ORD-6044,2023-08-31,Deepa Lakshmi,Tamil Nadu,3453.44,Beauty & Personal Care,UPI
+ORD-6045,2023-05-30,Deepa Lakshmi,Maharashtra,871.3,Grocery,Net Banking
+ORD-6046,2023-09-16,Priya Sharma,Uttar Pradesh,3271.09,Grocery,Credit Card
+ORD-6047,2023-05-21,Vikram Singh,Maharashtra,25476.83,Electronics,Cash on Delivery
+ORD-6048,2023-10-30,Amit Patel,Telangana,2345.896,Grocery,Credit Card
+ORD-6049,2023-12-25,Sneha Gupta,Telangana,9944.326,Fashion,Cash on Delivery
+ORD-6050,2023-06-25,Priya Sharma,Tamil Nadu,4269.26,Beauty & Personal Care,Credit Card
+ORD-6051,2023-07-31,Sandeep Reddy,Delhi,1448.86,Home & Kitchen,Credit Card
+ORD-6052,2023-06-26,Rajesh Kumar,Uttar Pradesh,25056.02,Electronics,UPI
+ORD-6053,2023-07-24,Kavita Iyer,Uttar Pradesh,1551.48,Home & Kitchen,Cash on Delivery
+ORD-6054,2023-12-16,Sandeep Reddy,Telangana,4041.7859999999996,Grocery,Credit Card
+ORD-6055,2023-08-11,Rajesh Kumar,Uttar Pradesh,3553.22,Home & Kitchen,Net Banking
+ORD-6056,2023-09-29,Rajesh Kumar,Karnataka,4802.83,Beauty & Personal Care,Debit Card
+ORD-6057,2023-08-10,Deepa Lakshmi,Uttar Pradesh,1701.9,Grocery,Debit Card
+ORD-6058,2023-02-20,Vikram Singh,Gujarat,3804.41,Home & Kitchen,Credit Card
+ORD-6059,2023-10-29,Sneha Gupta,West Bengal,7083.271999999999,Fashion,Debit Card
+ORD-6060,2023-12-11,Rajesh Kumar,Karnataka,29206.701999999997,Electronics,Net Banking
+ORD-6061,2023-02-23,Kavita Iyer,West Bengal,3137.32,Fashion,Debit Card
+ORD-6062,2023-01-18,Rajesh Kumar,Karnataka,54396.33,Electronics,Cash on Delivery
+ORD-6063,2023-04-22,Deepa Lakshmi,Karnataka,66386.45,Electronics,UPI
+ORD-6064,2023-03-08,Sandeep Reddy,Tamil Nadu,30200.14,Electronics,Credit Card
+ORD-6065,2023-08-28,Priya Sharma,Telangana,3615.0,Grocery,Net Banking
+ORD-6066,2023-12-08,Anjali Verma,Uttar Pradesh,4623.317999999999,Fashion,UPI
+ORD-6067,2023-02-01,Sandeep Reddy,Gujarat,1662.07,Grocery,UPI
+ORD-6068,2023-05-16,Amit Patel,Telangana,73765.32,Electronics,Net Banking
+ORD-6069,2023-04-13,Deepa Lakshmi,Gujarat,2204.8,Fashion,Net Banking
+ORD-6070,2023-10-04,Sandeep Reddy,Delhi,6449.436,Beauty & Personal Care,UPI
+ORD-6071,2023-05-13,Priya Sharma,Maharashtra,49280.67,Electronics,UPI
+ORD-6072,2023-05-09,Kavita Iyer,Maharashtra,3437.89,Home & Kitchen,Credit Card
+ORD-6073,2023-01-01,Rajesh Kumar,Gujarat,3650.25,Grocery,Credit Card
+ORD-6074,2023-07-20,Deepa Lakshmi,Maharashtra,2651.63,Beauty & Personal Care,Net Banking
+ORD-6075,2023-07-26,Priya Sharma,Delhi,72249.32,Electronics,Net Banking
+ORD-6076,2023-09-04,Priya Sharma,West Bengal,2302.77,Grocery,Debit Card
+ORD-6077,2023-11-20,Priya Sharma,West Bengal,1206.8839999999998,Beauty & Personal Care,Debit Card
+ORD-6078,2023-08-24,Vikram Singh,Delhi,1755.65,Fashion,Cash on Delivery
+ORD-6079,2023-07-16,Sneha Gupta,Uttar Pradesh,3337.78,Home & Kitchen,UPI
+ORD-6080,2023-07-03,Kavita Iyer,Karnataka,1129.74,Home & Kitchen,Credit Card
+ORD-6081,2023-04-09,Rajesh Kumar,Delhi,783.47,Home & Kitchen,Net Banking
+ORD-6082,2023-10-04,Vikram Singh,Telangana,6789.411999999999,Beauty & Personal Care,Net Banking
+ORD-6083,2023-01-09,Rajesh Kumar,West Bengal,62266.71,Electronics,Debit Card
+ORD-6084,2023-01-22,Sandeep Reddy,Karnataka,4479.41,Fashion,Cash on Delivery
+ORD-6085,2023-12-14,Arjun Nair,Tamil Nadu,6526.338,Beauty & Personal Care,Credit Card
+ORD-6086,2023-01-19,Amit Patel,Telangana,69430.73,Electronics,Net Banking
+ORD-6087,2023-11-13,Rajesh Kumar,Delhi,3667.4679999999994,Fashion,UPI
+ORD-6088,2023-01-26,Vikram Singh,Karnataka,1268.1,Home & Kitchen,Cash on Delivery
+ORD-6089,2023-10-30,Priya Sharma,Karnataka,70978.09599999999,Electronics,Net Banking
+ORD-6090,2023-11-12,Sneha Gupta,Karnataka,5169.822,Fashion,Net Banking
+ORD-6091,2023-12-14,Sandeep Reddy,West Bengal,66854.32599999999,Electronics,Cash on Delivery
+ORD-6092,2023-06-14,Sneha Gupta,Maharashtra,2009.77,Beauty & Personal Care,Credit Card
+ORD-6093,2023-03-03,Vikram Singh,Tamil Nadu,3633.33,Home & Kitchen,Credit Card
+ORD-6094,2023-10-11,Amit Patel,Telangana,2470.3559999999998,Fashion,Cash on Delivery
+ORD-6095,2023-02-21,Deepa Lakshmi,Gujarat,7217.58,Fashion,UPI
+ORD-6096,2023-02-11,Rajesh Kumar,Maharashtra,6093.82,Fashion,UPI
+ORD-6097,2023-10-31,Vikram Singh,Gujarat,1998.808,Home & Kitchen,Credit Card
+ORD-6098,2023-11-24,Vikram Singh,Telangana,6609.959999999999,Home & Kitchen,Credit Card
+ORD-6099,2023-11-09,Rajesh Kumar,Tamil Nadu,6686.876,Home & Kitchen,Cash on Delivery
+ORD-6100,2023-11-18,Vikram Singh,West Bengal,4213.58,Home & Kitchen,UPI
+ORD-6101,2023-04-09,Priya Sharma,Karnataka,4382.29,Beauty & Personal Care,Debit Card
+ORD-6102,2023-10-04,Arjun Nair,Delhi,2441.488,Home & Kitchen,Credit Card
+ORD-6103,2023-04-10,Priya Sharma,Tamil Nadu,1293.46,Home & Kitchen,Net Banking
+ORD-6104,2023-12-10,Rajesh Kumar,Maharashtra,2020.41,Grocery,Debit Card
+ORD-6105,2023-05-09,Anjali Verma,Telangana,59425.01,Electronics,UPI
+ORD-6106,2023-10-03,Amit Patel,Tamil Nadu,64251.907999999996,Electronics,Net Banking
+ORD-6107,2023-02-06,Sneha Gupta,Telangana,1966.88,Beauty & Personal Care,Cash on Delivery
+ORD-6108,2023-04-12,Anjali Verma,Delhi,28666.92,Electronics,Debit Card
+ORD-6109,2023-05-02,Sandeep Reddy,Delhi,830.88,Home & Kitchen,Credit Card
+ORD-6110,2023-10-27,Kavita Iyer,Maharashtra,2061.836,Home & Kitchen,Credit Card
+ORD-6111,2023-11-09,Kavita Iyer,Tamil Nadu,1559.3479999999997,Home & Kitchen,Debit Card
+ORD-6112,2023-04-10,Anjali Verma,Uttar Pradesh,2326.88,Fashion,Debit Card
+ORD-6113,2023-12-21,Deepa Lakshmi,Maharashtra,1399.9859999999999,Grocery,Credit Card
+ORD-6114,2023-08-27,Kavita Iyer,Gujarat,2929.05,Fashion,Debit Card
+ORD-6115,2023-06-01,Deepa Lakshmi,Tamil Nadu,3101.55,Beauty & Personal Care,Credit Card
+ORD-6116,2023-10-11,Sneha Gupta,Karnataka,3782.044,Home & Kitchen,Cash on Delivery
+ORD-6117,2023-04-21,Deepa Lakshmi,Telangana,565.27,Home & Kitchen,Debit Card
+ORD-6118,2023-08-08,Sneha Gupta,Delhi,3107.6,Grocery,Net Banking
+ORD-6119,2023-10-30,Amit Patel,Maharashtra,952.3639999999999,Home & Kitchen,UPI
+ORD-6120,2023-08-29,Arjun Nair,Maharashtra,2274.44,Home & Kitchen,Cash on Delivery
+ORD-6121,2023-12-23,Priya Sharma,Telangana,1223.474,Home & Kitchen,Credit Card
+ORD-6122,2023-01-07,Sandeep Reddy,Delhi,3422.64,Fashion,Debit Card
+ORD-6123,2023-11-28,Priya Sharma,Maharashtra,1719.3539999999998,Home & Kitchen,Debit Card
+ORD-6124,2023-08-24,Deepa Lakshmi,Maharashtra,3973.26,Home & Kitchen,Net Banking
+ORD-6125,2023-12-27,Sandeep Reddy,Tamil Nadu,5134.584,Grocery,Net Banking
+ORD-6126,2023-01-01,Priya Sharma,Gujarat,647.21,Grocery,Cash on Delivery
+ORD-6127,2023-08-07,Vikram Singh,Delhi,67850.83,Electronics,Cash on Delivery
+ORD-6128,2023-01-29,Arjun Nair,West Bengal,37977.3,Electronics,UPI
+ORD-6129,2023-08-27,Deepa Lakshmi,Maharashtra,1288.7,Grocery,Debit Card
+ORD-6130,2023-10-14,Priya Sharma,Delhi,4271.554,Fashion,Debit Card
+ORD-6131,2023-02-28,Kavita Iyer,Delhi,3792.63,Fashion,Debit Card
+ORD-6132,2023-05-17,Arjun Nair,Gujarat,785.16,Grocery,UPI
+ORD-6133,2023-06-26,Kavita Iyer,Telangana,4233.02,Beauty & Personal Care,Cash on Delivery
+ORD-6134,2023-08-29,Arjun Nair,Uttar Pradesh,2156.66,Home & Kitchen,Cash on Delivery
+ORD-6135,2023-12-11,Priya Sharma,Delhi,1205.078,Home & Kitchen,UPI
+ORD-6136,2023-04-02,Vikram Singh,Karnataka,31556.56,Electronics,Credit Card
+ORD-6137,2023-12-23,Amit Patel,Telangana,6838.258,Fashion,Credit Card
+ORD-6138,2023-11-18,Rajesh Kumar,Uttar Pradesh,6569.849999999999,Home & Kitchen,Cash on Delivery
+ORD-6139,2023-08-31,Anjali Verma,Gujarat,1811.83,Home & Kitchen,UPI
+ORD-6140,2023-02-02,Rajesh Kumar,Delhi,2352.61,Beauty & Personal Care,Debit Card
+ORD-6141,2023-06-25,Anjali Verma,Telangana,4288.59,Beauty & Personal Care,Cash on Delivery
+ORD-6142,2023-08-16,Kavita Iyer,Uttar Pradesh,4542.27,Beauty & Personal Care,Credit Card
+ORD-6143,2023-06-06,Amit Patel,Uttar Pradesh,3917.37,Fashion,Net Banking
+ORD-6144,2023-05-28,Rajesh Kumar,Tamil Nadu,2551.67,Grocery,Debit Card
+ORD-6145,2023-03-27,Deepa Lakshmi,Tamil Nadu,1320.26,Beauty & Personal Care,Debit Card
+ORD-6146,2023-03-31,Amit Patel,Tamil Nadu,1767.48,Fashion,UPI
+ORD-6147,2023-06-12,Deepa Lakshmi,Tamil Nadu,2163.52,Home & Kitchen,Debit Card
+ORD-6148,2023-04-16,Arjun Nair,Maharashtra,1165.75,Grocery,Debit Card
+ORD-6149,2023-08-18,Arjun Nair,Tamil Nadu,1046.71,Beauty & Personal Care,Debit Card
+ORD-6150,2023-01-13,Sandeep Reddy,Telangana,7530.77,Fashion,Net Banking
+ORD-6151,2023-03-21,Rajesh Kumar,West Bengal,4531.9,Grocery,Net Banking
+ORD-6152,2023-10-21,Amit Patel,Telangana,5309.331999999999,Grocery,UPI
+ORD-6153,2023-01-21,Amit Patel,Karnataka,2307.33,Grocery,UPI
+ORD-6154,2023-04-23,Kavita Iyer,West Bengal,18302.02,Electronics,Debit Card
+ORD-6155,2023-11-25,Sneha Gupta,Delhi,842.058,Grocery,Credit Card
+ORD-6156,2023-10-03,Kavita Iyer,Karnataka,1925.042,Beauty & Personal Care,Net Banking
+ORD-6157,2023-06-12,Deepa Lakshmi,Maharashtra,1165.76,Grocery,Net Banking
+ORD-6158,2023-08-07,Anjali Verma,Gujarat,1780.93,Grocery,UPI
+ORD-6159,2023-06-29,Vikram Singh,Telangana,1470.63,Beauty & Personal Care,UPI
+ORD-6160,2023-08-16,Sandeep Reddy,Telangana,4125.53,Grocery,Credit Card
+ORD-6161,2023-08-06,Sandeep Reddy,Tamil Nadu,887.35,Beauty & Personal Care,Cash on Delivery
+ORD-6162,2023-04-17,Vikram Singh,Telangana,797.52,Beauty & Personal Care,Debit Card
+ORD-6163,2023-10-30,Sandeep Reddy,Karnataka,74659.704,Electronics,Net Banking
+ORD-6164,2023-05-20,Sandeep Reddy,Tamil Nadu,3696.11,Beauty & Personal Care,Net Banking
+ORD-6165,2023-03-12,Sneha Gupta,Tamil Nadu,2992.4,Home & Kitchen,Debit Card
+ORD-6166,2023-01-22,Vikram Singh,Uttar Pradesh,3829.35,Home & Kitchen,Cash on Delivery
+ORD-6167,2023-04-25,Rajesh Kumar,Maharashtra,3451.1,Fashion,Debit Card
+ORD-6168,2023-11-24,Kavita Iyer,Karnataka,1830.052,Grocery,Net Banking
+ORD-6169,2023-12-19,Sneha Gupta,Maharashtra,62416.214,Electronics,Debit Card
+ORD-6170,2023-02-04,Deepa Lakshmi,West Bengal,3045.09,Beauty & Personal Care,Net Banking
+ORD-6171,2023-05-13,Kavita Iyer,Karnataka,3798.31,Grocery,Cash on Delivery
+ORD-6172,2023-01-09,Vikram Singh,Tamil Nadu,1157.62,Beauty & Personal Care,UPI
+ORD-6173,2023-08-25,Amit Patel,West Bengal,3272.36,Fashion,UPI
+ORD-6174,2023-08-03,Anjali Verma,Maharashtra,2883.26,Grocery,Debit Card
+ORD-6175,2023-02-09,Arjun Nair,Delhi,5391.96,Fashion,UPI
+ORD-6176,2023-03-27,Arjun Nair,West Bengal,1721.57,Grocery,Debit Card
+ORD-6177,2023-12-24,Anjali Verma,Karnataka,2915.2619999999997,Beauty & Personal Care,Cash on Delivery
+ORD-6178,2023-03-15,Rajesh Kumar,Tamil Nadu,2178.56,Beauty & Personal Care,Debit Card
+ORD-6179,2023-09-06,Sandeep Reddy,West Bengal,2916.2,Fashion,UPI
+ORD-6180,2023-09-15,Sneha Gupta,Delhi,3603.44,Beauty & Personal Care,Cash on Delivery
+ORD-6181,2023-09-27,Arjun Nair,Karnataka,4622.14,Home & Kitchen,Net Banking
+ORD-6182,2023-03-01,Amit Patel,Maharashtra,1902.08,Home & Kitchen,Debit Card
+ORD-6183,2023-07-05,Amit Patel,Telangana,3936.15,Beauty & Personal Care,Cash on Delivery
+ORD-6184,2023-06-25,Amit Patel,Uttar Pradesh,28341.47,Electronics,UPI
+ORD-6185,2023-12-22,Amit Patel,Delhi,2021.9919999999997,Grocery,Credit Card
+ORD-6186,2023-02-10,Sandeep Reddy,Karnataka,61481.54,Electronics,UPI
+ORD-6187,2023-08-09,Rajesh Kumar,Delhi,62583.31,Electronics,UPI
+ORD-6188,2023-09-20,Deepa Lakshmi,Maharashtra,4588.38,Home & Kitchen,UPI
+ORD-6189,2023-01-23,Priya Sharma,Uttar Pradesh,61942.25,Electronics,UPI
+ORD-6190,2023-11-05,Sneha Gupta,Delhi,2366.252,Fashion,Debit Card
+ORD-6191,2023-03-16,Vikram Singh,West Bengal,4348.12,Grocery,Credit Card
+ORD-6192,2023-11-10,Sneha Gupta,Karnataka,85112.496,Electronics,Cash on Delivery
+ORD-6193,2023-09-28,Sneha Gupta,Delhi,4557.47,Grocery,Credit Card
+ORD-6194,2023-10-03,Rajesh Kumar,Karnataka,9846.802,Fashion,Cash on Delivery
+ORD-6195,2023-09-01,Anjali Verma,Tamil Nadu,1313.82,Home & Kitchen,UPI
+ORD-6196,2023-07-01,Sandeep Reddy,Gujarat,2979.1,Fashion,Cash on Delivery
+ORD-6197,2023-02-27,Anjali Verma,Karnataka,2838.77,Home & Kitchen,UPI
+ORD-6198,2023-09-11,Anjali Verma,Uttar Pradesh,870.12,Beauty & Personal Care,UPI
+ORD-6199,2023-09-10,Priya Sharma,Gujarat,3201.75,Grocery,Net Banking
+ORD-6200,2023-06-09,Kavita Iyer,Delhi,1807.65,Beauty & Personal Care,Net Banking
+ORD-6201,2023-08-08,Sneha Gupta,Karnataka,1306.84,Home & Kitchen,Debit Card
+ORD-6202,2023-12-12,Kavita Iyer,Karnataka,3992.772,Home & Kitchen,Net Banking
+ORD-6203,2023-12-13,Priya Sharma,Karnataka,5745.684,Fashion,Net Banking
+ORD-6204,2023-10-30,Priya Sharma,Tamil Nadu,102917.43,Electronics,Debit Card
+ORD-6205,2023-06-23,Sneha Gupta,Gujarat,65286.55,Electronics,Credit Card
+ORD-6206,2023-09-13,Vikram Singh,Uttar Pradesh,2641.22,Home & Kitchen,Debit Card
+ORD-6207,2023-11-05,Sandeep Reddy,Telangana,1628.452,Beauty & Personal Care,Debit Card
+ORD-6208,2023-08-21,Priya Sharma,Karnataka,2737.73,Grocery,Net Banking
+ORD-6209,2023-11-18,Amit Patel,Maharashtra,90746.25,Electronics,UPI
+ORD-6210,2023-09-13,Rajesh Kumar,Tamil Nadu,3556.42,Home & Kitchen,Cash on Delivery
+ORD-6211,2023-03-20,Vikram Singh,Karnataka,61054.33,Electronics,Cash on Delivery
+ORD-6212,2023-08-27,Sneha Gupta,Uttar Pradesh,2771.58,Home & Kitchen,Net Banking
+ORD-6213,2023-10-05,Anjali Verma,Maharashtra,94930.55599999998,Electronics,Net Banking
+ORD-6214,2023-03-02,Sandeep Reddy,Telangana,2491.5,Grocery,Net Banking
+ORD-6215,2023-01-19,Rajesh Kumar,Tamil Nadu,4481.15,Beauty & Personal Care,Debit Card
+ORD-6216,2023-03-26,Kavita Iyer,Gujarat,6152.2,Fashion,Debit Card
+ORD-6217,2023-09-07,Priya Sharma,Telangana,3074.95,Beauty & Personal Care,Cash on Delivery
+ORD-6218,2023-09-01,Arjun Nair,Tamil Nadu,2261.23,Beauty & Personal Care,UPI
+ORD-6219,2023-09-11,Deepa Lakshmi,Gujarat,3949.12,Beauty & Personal Care,Debit Card
+ORD-6220,2023-05-26,Anjali Verma,Maharashtra,17707.11,Electronics,Cash on Delivery
+ORD-6221,2023-07-07,Anjali Verma,Maharashtra,938.08,Grocery,Net Banking
+ORD-6222,2023-06-26,Anjali Verma,Gujarat,3475.58,Grocery,UPI
+ORD-6223,2023-05-07,Sneha Gupta,Uttar Pradesh,4596.75,Beauty & Personal Care,UPI
+ORD-6224,2023-02-03,Vikram Singh,Karnataka,588.7,Grocery,Credit Card
+ORD-6225,2023-06-16,Rajesh Kumar,Telangana,2816.42,Home & Kitchen,Cash on Delivery
+ORD-6226,2023-08-04,Vikram Singh,Maharashtra,600.06,Home & Kitchen,Cash on Delivery
+ORD-6227,2023-06-12,Sandeep Reddy,Gujarat,939.77,Grocery,Cash on Delivery
+ORD-6228,2023-09-08,Priya Sharma,Delhi,2762.46,Grocery,Net Banking
+ORD-6229,2023-12-08,Anjali Verma,Tamil Nadu,2989.0,Beauty & Personal Care,Debit Card
+ORD-6230,2023-08-12,Sneha Gupta,Telangana,27844.81,Electronics,Cash on Delivery
+ORD-6231,2023-05-16,Rajesh Kumar,Uttar Pradesh,4120.71,Beauty & Personal Care,Net Banking
+ORD-6232,2023-11-16,Priya Sharma,Karnataka,2422.196,Beauty & Personal Care,Debit Card
+ORD-6233,2023-10-18,Arjun Nair,Telangana,2888.0879999999997,Home & Kitchen,Credit Card
+ORD-6234,2023-02-09,Vikram Singh,Uttar Pradesh,1910.09,Home & Kitchen,Cash on Delivery
+ORD-6235,2023-08-01,Sandeep Reddy,Uttar Pradesh,2539.53,Beauty & Personal Care,Cash on Delivery
+ORD-6236,2023-10-08,Amit Patel,Maharashtra,4334.106,Beauty & Personal Care,Credit Card
+ORD-6237,2023-04-20,Kavita Iyer,Uttar Pradesh,4337.49,Beauty & Personal Care,Cash on Delivery
+ORD-6238,2023-08-11,Deepa Lakshmi,Maharashtra,2139.24,Beauty & Personal Care,Credit Card
+ORD-6239,2023-03-17,Sneha Gupta,Tamil Nadu,2346.17,Grocery,Net Banking
